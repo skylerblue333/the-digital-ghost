@@ -2,13 +2,13 @@
 
 ## Definitive Story Frame
 
-*Loathing in the Woes of Ruthlessness: The Chosen One* is an original fictional novel. Its central conflict is between **power and humanity**. Its protagonist, Skyler Blue, is not selected by fate in a supernatural sense. He becomes “the chosen one” because several competing actors decide that his public identity, technical knowledge, family history, and unresolved wounds make him useful as a symbol.
+*Loathing in the Woes of Ruthlessness: The Chosen One* is an original fictional novel. Its central conflict is between **power and humanity**. Its protagonist, Skyler Blue Spillers, is not selected by fate in a supernatural sense. He becomes “the chosen one” because several competing actors decide that his public identity, technical knowledge, family history, and unresolved wounds make him useful as a symbol.
 
 The plot must preserve ambiguity without becoming vague. Certain facts are proven: financial transfers, recordings, staged media, compromised accounts, a recruitment offer, and a criminal influence network. Other claims remain contested: the degree of device compromise, whether every coincidence was engineered, and how much Skyler’s exhaustion and fear shaped his interpretation. This distinction creates suspense while protecting the novel from an implausible all-powerful conspiracy.
 
 ## Protagonist Ledger
 
-**Name:** Skyler Blue. The surname evokes both technological branding and emotional distance. “Blue” also connects to the sky motif, grief, and the cold light of screens.
+**Name:** Skyler Blue Spillers. The surname evokes both technological branding and emotional distance. “Blue” also connects to the sky motif, grief, and the cold light of screens.
 
 **Age:** Thirty-six at the opening of the novel.
 

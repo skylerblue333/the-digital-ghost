@@ -3,7 +3,7 @@
 
 *A novel*
 
-### Skyler Blue
+### Skyler Blue Spillers
 
 ---
 
@@ -31,7 +31,7 @@ It is not a report about real governments, real public figures, or real institut
 
 The distinction matters. A person can be genuinely threatened and still misunderstand who is threatening him. A system can fail without being controlled by one hidden hand. Evidence can be true while the story built around it is false.
 
-Skyler Blue begins this novel believing that survival requires him to understand everything. He ends it learning that survival is only the beginning. Purpose is what comes after.
+Skyler Blue Spillers begins this novel believing that survival requires him to understand everything. He ends it learning that survival is only the beginning. Purpose is what comes after.
 
 ---
 
@@ -107,7 +107,7 @@ That was the first lie the phone told him.
 ## Chapter One
 ### The Phone
 
-At 6:12 on Monday morning, Skyler Blue woke with the conviction that someone had been standing in the doorway.
+At 6:12 on Monday morning, Skyler Blue Spillers woke with the conviction that someone had been standing in the doorway.
 
 The conviction disappeared when he opened his eyes, but the room kept its shape around it. Gray walls. Unmade bed. A shirt folded over the back of a chair. The door half-open by three inches, exactly as he had left it.
 
@@ -3568,7 +3568,7 @@ The broadcast was not live. It was assembled from several recordings, stitched s
 
 Thorne stood in the factory beneath the hanging light.
 
-“Skyler Blue,” he said, “you have been told that power is violence. That is a child’s definition. Power is the ability to determine which choices remain available.”
+“Skyler Blue Spillers,” he said, “you have been told that power is violence. That is a child’s definition. Power is the ability to determine which choices remain available.”
 
 A number appeared on the screen.
 

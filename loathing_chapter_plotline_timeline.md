@@ -5,7 +5,7 @@
 
 ## Story Promise
 
-Skyler Blue is a gifted coder, father, and former founder of a social-impact technology company. After a personal and legal catastrophe, his phone begins presenting advertisements, songs, messages, and recommendations that appear to know his private life. An anonymous rap battle between rival American and Chinese hacker factions seems to narrate his downfall in real time. Criminal intermediaries offer him a lucrative position operating inside the dark web. Employers, friends, romantic partners, and strangers appear to behave as if they have been given different versions of the same secret story.
+Skyler Blue Spillers is a gifted coder, father, and former founder of a social-impact technology company. After a personal and legal catastrophe, his phone begins presenting advertisements, songs, messages, and recommendations that appear to know his private life. An anonymous rap battle between rival American and Chinese hacker factions seems to narrate his downfall in real time. Criminal intermediaries offer him a lucrative position operating inside the dark web. Employers, friends, romantic partners, and strangers appear to behave as if they have been given different versions of the same secret story.
 
 The organization behind the disturbance is the **Pawns Network**, a decentralized influence machine built on one principle: *You do not need to control a person when you can control everyone around them.* It does not control everything. It controls enough uncertainty to make the victim doubt the difference.
 
@@ -15,7 +15,7 @@ The novel’s central question is not simply who hacked Skyler. It is whether a 
 
 | Character | Role | Public identity | Private motivation | Fear | Transformation |
 |---|---|---|---|---|---|
-| **Skyler Blue** | Protagonist; coder and father | A disgraced technology founder trying to rebuild his life | Protect his daughters and prove that truth cannot be manufactured completely | Becoming dangerous while trying to defeat danger | Moves from pattern-obsessed survival to disciplined, evidence-based purpose |
+| **Skyler Blue Spillers** | Protagonist; coder and father | A disgraced technology founder trying to rebuild his life | Protect his daughters and prove that truth cannot be manufactured completely | Becoming dangerous while trying to defeat danger | Moves from pattern-obsessed survival to disciplined, evidence-based purpose |
 | **Ghost / Mara Vale** | Former Network operative and uncertain ally | An anonymous hacker and producer of encrypted music | Destroy the system that used her, while hiding her own crimes | That exposing the Network will expose her as well | Learns that redemption requires disclosure, not just revenge |
 | **Thorne** | Principal antagonist and recruiter | Consultant, philanthropist, and executive fixer | Turn social chaos into a controllable market | Losing the story that protects him | Revealed as powerful but not omnipotent; his weakness is dependence on secrecy |
 | **Lena Ortiz** | Investigative journalist | Reporter covering digital coercion and public corruption | Find a story that helps victims without turning them into spectacle | Becoming another person who uses Skyler | Becomes the ethical counterweight to Skyler’s impulsiveness |

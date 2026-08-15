@@ -13,7 +13,7 @@
 
 ### Amazon Book Description
 
-Skyler Blue built systems to protect vulnerable people.
+Skyler Blue Spillers built systems to protect vulnerable people.
 
 Now his own life has become a system designed to destroy him.
 

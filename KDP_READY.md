@@ -6,7 +6,7 @@
 
 ## Author
 
-**Skyler Blue** — confirm this is the exact public author name before submission.
+**Skyler Blue Spillers** — confirm this is the exact public author name before submission.
 
 ## Edition Status
 

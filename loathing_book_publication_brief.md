@@ -1,7 +1,7 @@
 # *Loathing in the Woes of Ruthlessness: The Chosen One*
 ## Publication and Manuscript Production Brief
 
-**Working author name:** Skyler Blue, unless the author requests a different pen name.
+**Working author name:** Skyler Blue Spillers, unless the author requests a different pen name.
 
 **Format:** Original novel manuscript prepared first in clean Markdown for editorial control, then adapted into a reflowable eBook manuscript and a 6 x 9 inch paperback layout. The manuscript will use standard front matter, chapter headings, scene breaks, and back matter.
 
