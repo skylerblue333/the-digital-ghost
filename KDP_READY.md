@@ -10,7 +10,7 @@
 
 ## Edition Status
 
-This package contains a concise fictional psychological techno-thriller manuscript of approximately 22,000 words. It should be positioned accurately as a novella-length edition unless expanded before release. Bestseller status cannot be guaranteed; the files are prepared to reduce technical preparation work, but human editorial review remains necessary.
+This package contains a concise fictional psychological techno-thriller manuscript of approximately 30,747 words. It should be positioned accurately as a full expanded edition unless expanded before release. Bestseller status cannot be guaranteed; the files are prepared to reduce technical preparation work, but human editorial review remains necessary.
 
 ## Files Prepared
 

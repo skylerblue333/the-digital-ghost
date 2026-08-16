@@ -7,7 +7,7 @@
 
 **Secondary genres:** Speculative crime fiction, cyberwar thriller, psychological suspense, family drama.
 
-**Manuscript length:** Approximately 22,000 words in the current concise novel/novella-length edition. It should be marketed accurately as a short novel or novella-length work, not as a full-length 75,000–90,000-word commercial novel.
+**Manuscript length:** Approximately 22,000 words in the current concise novel/full expanded edition. It should be marketed accurately as a short novel or novella-length work, not as a full-length 75,000–90,000-word commercial novel.
 
 **Tone:** Dark, cinematic, philosophical, emotionally intense, rebellious, and ultimately hopeful.
 
