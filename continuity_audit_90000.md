@@ -1,0 +1,9 @@
+# Continuity Audit — 90,056-Word Working Edition
+
+The expanded working manuscript contains 90,056 words, 172 chapter headings, and 116 long-form expansion markers. The latest narrative sequence reaches Chapter One Hundred Fifty-Three, “The Open Record,” and closes with the protagonist choosing continued accountability rather than symbolic authority.
+
+The continuity audit found no duplicate `## Chapter` headings. The core Four Pillars—Identity, Memory, Consent, and Consequence—remain recurrent and structurally relevant. The Truth Protocol vocabulary and the observed/corroborated/inferred/unknown distinction remain present. The Society remains framed as a fictional decentralized influence market rather than an omniscient single command center. The manuscript contains no detected operational language matching credential theft, keylogger, payload, exploit code, malware instructions, or authentication bypass.
+
+The final arc preserves the established character and thematic continuity: Skyler moves from wound and pattern-seeking through descent, ruthlessness, consequence, and choice toward a legacy defined by procedures that can correct him and continue without him. Sarah’s boundaries, Noor’s departure, Mara’s custodianship, the daughters’ agency, the archive, the four doors, the crown, the coin, the broken device, and the open sky remain active motifs rather than disconnected references.
+
+Finalization decision: treat `manuscript_90000_working.md` as the reviewed long-form source, rewrite the canonical `manuscript.md` from it, then regenerate the KDP package and synchronize the final edition to both designated GitHub repositories. The working batch markers may be retained in the source archive but should be removed from the reader-facing canonical manuscript if the existing build pipeline supports a clean assembly; otherwise, preserve them only outside the KDP interior files.
