@@ -6,6 +6,21 @@
 ### Skyler Blue Spillers
 
 ---
+## Back Cover Description
+
+The suffocating shadows of Sallsky, Kansas, Skyler Blue fights a battle no one else can see. A gifted coder haunted by betrayal, he's targeted by a secret society that hacks his devices, invades his home, and threatens his living and three daughters. After leaving his ex-fiancée, Haylee, she also works with them to weave a web of lies to frame him, Skyler clings to ShadowChat, his digital lifeline to stay afloat and expose the truth. With a mysterious ally, some foolishness and a chilling twist revealing the enemy in plain sight, Skyler's desperate run for freedom becomes a heart-pounding fight against a conspiracy that runs deeper than he ever imagined. Some think paranoia and he thinks redemption, once the path became straight; after a brilliant strategy, abuse, and some corruptions, one man's defiance could save his family or doom them all. Will Skyler outrun the shadows, or become their final sacrifice?
+
+But beneath the codes, surveillance, and impossible clues is a father trying to speak to Luna, Summer, and Alexis through every channel he has left. A chess puzzle becomes a promise. A late-night voice memo becomes a message they may one day understand. Three small references—yellow, summer rain, and a seashell—become secret reminders that he knows who they are and loves them beyond every distance. Skyler begins leaving letters for the future, not to recruit his daughters into his war, but to tell them the truth plainly: he remembers their jokes, their questions, their courage, and every ordinary moment that made him their dad. In a story where systems can counterfeit a voice, love becomes the one message he refuses to let anyone rewrite.
+
+### Storyline Motifs
+
+- **The chessboard:** Skyler records openings and endgames as lessons in patience, sacrifice, and choosing a move that protects the people who matter most.
+- **The three signals:** A yellow light, the sound of summer rain, and a seashell recur as intimate reminders of his daughters, hidden in songs, code comments, and old family memories.
+- **The letters:** Unsent letters and Dad Game Night notes give Skyler a way to speak directly to his children, even when every public message can be twisted.
+- **The impossible conversation:** At key moments, Skyler hears remembered questions from his daughters and answers them aloud—not because the shadows are speaking, but because love has trained him never to stop listening.
+- **The final choice:** His greatest victory is not proving that he was right. It is refusing to turn his children into evidence, weapons, or witnesses, and choosing to leave them a future larger than the fear surrounding him.
+
+---
 
 ## Dedication
 
