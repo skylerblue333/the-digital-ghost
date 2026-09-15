@@ -102,6 +102,71 @@ That was the first lie the phone told him.
 
 ---
 
+## Interlude — The Inheritance That Changed Names
+
+The first version of the inheritance arrived as a screenshot.
+
+It showed a trust instrument with a blue seal, three signatures, and a number large enough to make a person distrust the shape of zeroes. The sender called it a gift from a famous software philanthropist. The next message said the donor was not the philanthropist at all, but a space entrepreneur who had used the first name as cover. A third message blamed the confusion on a dead intermediary.
+
+Skyler saved every version.
+
+He did not believe any of them.
+
+That was the problem. The story did not need belief. It needed motion. A rumor could move through a feed, a church hallway, a job interview, a song recommendation, and an advertisement before anyone had time to ask whether it was true.
+
+At 9:14 a.m., his music app offered a track called **THE BENEFICIARY**. At 9:16, a blue sedan appeared in an advertisement. At 9:19, a former coworker texted, *You finally got what they promised you?* At 9:27, a pastor at the Church of Four Doors paused during a sermon and said, “Inheritance is not the same as ownership.”
+
+Skyler wrote the sequence in his notebook.
+
+**Observed:** screenshot, song, advertisement, text, sermon.
+
+**Inferred:** someone was arranging a story around him.
+
+**Unknown:** whether the arrangement came from one criminal network, several opportunists, or the ordinary machinery of attention.
+
+The ransom message arrived that afternoon.
+
+It did not say that a real billionaire had been taken. It said that a fictional public figure named William Gage—software philanthropist, founder of the Gage Foundation, donor to hospitals and schools—was being held somewhere outside the city. The message claimed that the inheritance was the price of his release. Another line insisted that the donor was “really” Elon Vey, a space entrepreneur whose name had been substituted to redirect blame.
+
+The contradictions were deliberate.
+
+If Skyler repeated the story, he would look deluded. If he denied it, the people holding the story could call that proof of his involvement. The ransom was not only a demand for money. It was a demand that he become the witness who authenticated the lie.
+
+He called Mara.
+
+“Do not contact anyone named in the message,” she said. “Do not transfer funds. Do not publish the screenshots. Preserve the originals and write down what you actually know.”
+
+“What I know is that they are using my life to tell a story.”
+
+“Then your first job is not to finish the story for them.”
+
+That night, Skyler made three recordings for his daughters.
+
+The first was for Luna. He talked about chess and the difference between a sacrifice chosen freely and a piece taken because someone had arranged the board.
+
+The second was for Summer. He described rain striking the kitchen window and told her that a pattern could be beautiful without being a message.
+
+The third was for Alexis. He held a seashell to the microphone and said, “You do not have to understand the storm to know that you are loved.”
+
+He did not send the recordings. The devices were not trustworthy, and neither was the hour. He labeled the files with ordinary names and copied them to the family archive.
+
+Then he opened the feed.
+
+The same four notes played beneath an advertisement for a private security company. A church volunteer appeared in the comments. A recruiter from a job he had never applied for sent a link. Someone had posted a photograph of a locked office with the caption **THE INHERITANCE IS INSIDE**.
+
+Skyler felt the old temptation rise: to connect everything, to make the world confess its architecture.
+
+Instead, he wrote one more line.
+
+**A story can be engineered without being true. A fear can be real without explaining itself.**
+
+The next morning, the ransom account disappeared. The screenshot remained. So did the song, the advertisement, the sermon, the job message, and the three recordings his daughters might someday hear.
+
+The inheritance had changed names.
+
+The love had not.
+
+
 # PART I — THE GLITCH
 
 

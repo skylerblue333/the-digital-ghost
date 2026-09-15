@@ -53,6 +53,18 @@ The Network has three divisions. **The Choir** manufactures music, memes, and po
 
 # Part I — THE GLITCH
 
+
+## Integrated Storyline Arc — The Inheritance That Changed Names
+
+The inheritance rumor enters after Skyler's first feed anomalies. A forged trust document identifies a famous software philanthropist as the source of a promised fund. Within hours, the donor is renamed as a fictional space entrepreneur, suggesting that the operation is less interested in money than in controlling attribution.
+
+The feed repeats the rumor through songs, advertisements, church remarks, job contacts, and social posts. Mara insists that Skyler preserve evidence without publishing accusations. His former employers and church acquaintances become pressure points because each institution receives only a fragment of the story.
+
+The ransom demand claims that fictional philanthropist William Gage is being held until Skyler accepts the inheritance. The contradictions expose the Choir's method: it turns uncertainty into a social weapon. Skyler's climax is not proving which famous name belongs on the trust. It is refusing to validate the narrative at the cost of his daughters' safety.
+
+The emotional resolution arrives through three unsent recordings to Luna, Summer, and Alexis. Skyler chooses language they can inherit without inheriting his fear. The final evidence packet distinguishes confirmed facts from interpretations and leaves the remaining public-figure rumor unresolved.
+
+
 ## Chapter 1 — The Phone
 
 **Time:** Monday, August 10, 2026, 6:12 a.m.–11:40 p.m.

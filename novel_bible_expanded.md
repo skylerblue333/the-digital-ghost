@@ -120,6 +120,18 @@ Tarot cards function similarly. The Tower represents collapse, the Moon uncertai
 
 The prose should alternate between close physical detail and lyrical reflection. Technology should be shown through sensory experience—heat from a phone, autoplaying sound, the blue light of a screen, a cursor refusing to move—rather than explained as technical documentation. Dialogue should carry power struggles indirectly. Thorne should rarely raise his voice. Mara should ask questions that force Skyler to distinguish observation from interpretation. Ghost should use technical language as a defense against shame. Maria should ground abstractions in the needs of living people.
 
+
+## New Canon: The Inheritance and Ransom Thread
+
+The inheritance is a deliberately unstable rumor. A forged trust instrument claims that a famous software philanthropist left Skyler access to a hidden technology fund. A later message says the donor identity was a cover for a fictional space entrepreneur. The story never confirms that either public figure exists inside the novel's real world or that any real person made a transfer. The uncertainty is the trap.
+
+The ransom target is William Gage, a fictional software philanthropist created within the novel. The Choir claims that Gage has been abducted and that Skyler's inheritance is the ransom. The claim is later revealed to be a composite operation: a real kidnapping of an unnamed intermediary, fabricated documents, and a media narrative designed to make Skyler appear responsible. The plot remains centered on coercion, reputation, and evidence rather than operational kidnapping detail.
+
+The surveillance feed must recur through five ordinary channels: music recommendations, advertisements, employment contacts, church language, and public posts. Each recurrence receives at least two plausible explanations until corroboration. Skyler records the distinction between observed fact, inference, and unknown motive.
+
+The daughters remain the emotional counterweight. Luna receives chess imagery, Summer receives rain imagery, and Alexis receives seashell imagery. These motifs are not secret instructions or proof of surveillance. They are Skyler's private attempts to remember his children as people rather than symbols.
+
+
 ## Continuity Rules for Expansion
 
 The Society must never become omniscient. Every apparent prediction needs at least two plausible explanations until corroborated. Skyler’s daughters must retain independent humor, fear, and agency. The fictional hacker conflict must not provide operational instructions for real intrusion, credential theft, evasion, or trafficking. The climax must resolve the moral question—what Skyler chooses to become—even if some institutional mysteries remain open.

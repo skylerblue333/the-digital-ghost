@@ -22,6 +22,11 @@ But beneath the codes, surveillance, and impossible clues is a father trying to 
 
 ---
 
+
+The feed becomes the novel's second antagonist: music recommendations, targeted advertisements, church language, job contacts, and strangers' posts appear to rhyme around Skyler's life. A shifting inheritance rumor—first attributed to a famous software philanthropist, then to a space entrepreneur—leads to a ransom plot involving a fictional billionaire donor. The contradictions are intentional. The criminals need Skyler to repeat an unverified story so they can use his fear as evidence.
+
+The novel treats all public-figure references and ransom claims as fictionalized elements inside the thriller, not as assertions about real people or real events. Skyler's task is to separate what he observed from what the feed wants him to believe, while keeping faith with the three daughters whose ordinary memories remain harder to counterfeit than any algorithm.
+
 ## Dedication
 
 For Luna, Summer, and Alexis.
