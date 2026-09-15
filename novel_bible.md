@@ -2,13 +2,13 @@
 
 ## Definitive Story Frame
 
-*Loathing in the Woes of Ruthlessness: The Chosen One* is an original fictional novel. Its central conflict is between **power and humanity**. Its protagonist, Skyler Blue Spillers, is not selected by fate in a supernatural sense. He becomes “the chosen one” because several competing actors decide that his public identity, technical knowledge, family history, and unresolved wounds make him useful as a symbol.
+*Loathing in the Woes of Ruthlessness: The Chosen One* is an original fictional novel. Its central conflict is between **power and humanity**. Its protagonist, Skyler Blue, is not selected by fate in a supernatural sense. He becomes “the chosen one” because several competing actors decide that his public identity, technical knowledge, family history, and unresolved wounds make him useful as a symbol.
 
 The plot must preserve ambiguity without becoming vague. Certain facts are proven: financial transfers, recordings, staged media, compromised accounts, a recruitment offer, and a criminal influence network. Other claims remain contested: the degree of device compromise, whether every coincidence was engineered, and how much Skyler’s exhaustion and fear shaped his interpretation. This distinction creates suspense while protecting the novel from an implausible all-powerful conspiracy.
 
 ## Protagonist Ledger
 
-**Name:** Skyler Blue Spillers. The surname evokes both technological branding and emotional distance. “Blue” also connects to the sky motif, grief, and the cold light of screens.
+**Name:** Skyler Blue. The surname evokes both technological branding and emotional distance. “Blue” also connects to the sky motif, grief, and the cold light of screens.
 
 **Age:** Thirty-six at the opening of the novel.
 
@@ -62,6 +62,18 @@ The plot must preserve ambiguity without becoming vague. Certain facts are prove
 **The four principles:** Identity, memory, consent, and consequence. These appear in code fragments, music, drawings, and dialogue.
 
 **The phone:** A recurring object and symbolic mirror. The story never needs to prove that every notification was maliciously generated. It is enough that some were engineered and that ordinary personalization systems amplified the fear.
+
+
+## New Canon: The Inheritance and Ransom Thread
+
+The inheritance is a deliberately unstable rumor. A forged trust instrument claims that a famous software philanthropist left Skyler access to a hidden technology fund. A later message says the donor identity was a cover for a fictional space entrepreneur. The story never confirms that either public figure exists inside the novel's real world or that any real person made a transfer. The uncertainty is the trap.
+
+The ransom target is William Gage, a fictional software philanthropist created within the novel. The Choir claims that Gage has been abducted and that Skyler's inheritance is the ransom. The claim is later revealed to be a composite operation: a real kidnapping of an unnamed intermediary, fabricated documents, and a media narrative designed to make Skyler appear responsible. The plot remains centered on coercion, reputation, and evidence rather than operational kidnapping detail.
+
+The surveillance feed must recur through five ordinary channels: music recommendations, advertisements, employment contacts, church language, and public posts. Each recurrence receives at least two plausible explanations until corroboration. Skyler records the distinction between observed fact, inference, and unknown motive.
+
+The daughters remain the emotional counterweight. Luna receives chess imagery, Summer receives rain imagery, and Alexis receives seashell imagery. These motifs are not secret instructions or proof of surveillance. They are Skyler's private attempts to remember his children as people rather than symbols.
+
 
 ## Narrative Rules
 
