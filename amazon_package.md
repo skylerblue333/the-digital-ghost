@@ -98,3 +98,8 @@ For Kindle, create a reflowable file with clean heading styles and a generated t
 ### Content and Positioning Note
 
 The book should be presented as fiction. Avoid describing it in the retail listing as testimony, a verified account of government wrongdoing, or an allegation against real public figures or groups. The strongest commercial position is the novel’s actual premise: a morally complex father caught inside a fictional influence operation that weaponizes technology, media, and uncertainty.
+
+
+### Family Legacy Continuity Check
+
+Preserve Luna/chess, Summer/rain, Alexis/seashell, orange morning light, and `PROUD_BEFORE_PROOF = true` in the final manuscript. The self-moving Christmas chessboard memory should remain a quiet family detail about working extra to make learning feel magical and create shared time. Do not market the daughters as victims, product endorsements, or sales hooks.
