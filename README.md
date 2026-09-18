@@ -6332,3 +6332,10 @@ And the story, at last, no longer needed him to carry it alone.
 The final family layer uses recurring Easter eggs that can survive across future edits: Luna/chess knight, Summer/rain, Alexis/seashell, orange morning light for all three, and `PROUD_BEFORE_PROOF = true`. The Christmas self-moving chessboard memory represents Skyler working extra to make learning feel magical and create a shared family table, not pressure to produce a chess champion.
 
 Editors should preserve the message that Skyler loves, believes in, and is proud of his daughters regardless of achievement, agreement, mistakes, or public opinion. These family signals are never evidence of surveillance, prophecy, or hidden external communication.
+
+
+## Restored Full Story to the Girls
+
+The family package now preserves the longer, continuous story that had previously been split across front matter and notes. `kids_keepsake.md` and `family_story_to_my_girls.md` keep the full arc together: life before the glitch, ordinary family life, Hope Campus/service, school/work/church, the fear and uncertainty that later shaped the thriller, the “evidence for my children” purpose, and the instruction to “start before the glitch.”
+
+The judge passage is also restored inside the kids-facing story. Skyler's rough phrase about a judge “letting him walk for murder in 2020” is explicitly identified as emotional shorthand rather than a legal finding. The actual message preserved for the girls is gratitude: Skyler felt the judge gave him more time with his children—time he tried to use for fatherhood, work, school, volunteering, church, learning, building, and trying again.
