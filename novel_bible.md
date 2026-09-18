@@ -75,6 +75,19 @@ The surveillance feed must recur through five ordinary channels: music recommend
 The daughters remain the emotional counterweight. Luna receives chess imagery, Summer receives rain imagery, and Alexis receives seashell imagery. These motifs are not secret instructions or proof of surveillance. They are Skyler's private attempts to remember his children as people rather than symbols.
 
 
+## Family Legacy Motif — Proud Before Proof
+
+The daughters are three distinct people, not leverage or abstract symbols.
+
+- **Luna / chess knight:** thinking, patience, choice, and permission not to know every move.
+- **Summer / rain:** change, renewal, and the truth that a hard season is not an identity.
+- **Alexis / seashell:** ordinary memory and the importance of quiet observations.
+- **Orange morning light / all three:** longing for ordinary family time.
+- **`PROUD_BEFORE_PROOF = true`:** Skyler loves, believes in, and is proud of his daughters before achievement, agreement, public success, or perfection.
+- **Christmas self-moving chessboard:** Skyler's willingness to work extra days digging plants to create a magical first experience with chess and a family object the sisters might share over time. The meaning is shared time, not performance pressure.
+
+These motifs are family legacy messages and must never be treated as surveillance clues or supernatural proof.
+
 ## Narrative Rules
 
 The primary narrative uses close third person centered on Skyler. First-person inserts appear as Truth Protocol entries, audio transcripts, private notes, and memories. These inserts should not be used to confirm every suspicion. They should reveal Skyler’s emotional truth and the evolution of his reasoning.
