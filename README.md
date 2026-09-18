@@ -1051,29 +1051,41 @@ Skyler Blue begins this novel believing that survival requires him to understand
 # Prologue
 ## The Song Beneath the Static
 
-The first song had no title.
+At 3:17 in the morning, Skyler’s phone began playing a song no music app admitted existed.
 
-It arrived at 3:17 in the morning, carried through the cheap speaker of a phone Skyler had already thrown against the wall twice.
+He was awake before the first note finished.
 
-The screen was black. The room was black. Beyond the blinds, the city held its breath beneath a low ceiling of cloud, and somewhere in the distance a truck dragged its brakes down an empty street.
+The phone lay on the floor where he had thrown it against the wall twice. A crack split the glass from corner to corner. The screen was black, but four low notes pushed through the cheap speaker anyway, patient as footsteps in another room.
 
-Then the voice began.
+Beyond the blinds, the city held its breath under a low ceiling of cloud. Somewhere far off, a truck dragged its brakes down an empty street. In the kitchen, the refrigerator clicked on.
 
-Not singing. Speaking in rhythm.
+Then a voice entered the music.
+
+Not singing.
+
+Speaking in rhythm.
 
 > A crown is only a weight with better lighting.
 
 Skyler sat up.
 
-The phone continued.
+The voice continued.
 
 > A door is only a wall that learned to open.
 
-He had heard the line before. Not in a song. In his own notebook, written six years earlier beside a sketch of the Aegis identity architecture. He had written it after a week without sleep, when the company was still small and the future still looked like an object a person could hold in both hands.
+He knew that sentence.
 
-He had never posted it.
+Not from a song.
 
-The voice lowered.
+From a notebook.
+
+Six years earlier, after a week of bad sleep and impossible plans, he had written those words beside a sketch of the Aegis identity architecture. Back then the company was small enough to fit inside a few laptops and the future still looked like something a person could hold in both hands.
+
+He had never posted the line.
+
+He had never sent it.
+
+The voice dropped lower.
 
 > Four notes under the city. Four names in the ledger. Four ways to make a father disappear.
 
@@ -1081,31 +1093,45 @@ Skyler reached for the phone.
 
 The screen lit before his fingers touched it.
 
-A notification appeared.
+A notification appeared against a white field.
 
 **YOU FINALLY NOTICED.**
 
-Then the music stopped.
+The music stopped.
 
-For several seconds there was nothing but the refrigerator breathing in the kitchen and the blood moving through Skyler’s ears.
+For several seconds the apartment gave him only ordinary sounds: the refrigerator breathing, pipes settling in the wall, blood moving through his ears.
 
-He opened the notification. There was no application name, no sender, no message history. The words sat alone against a white field, too clean to be a prank and too intimate to be random.
+He opened the notification.
+
+No application name.
+
+No sender.
+
+No message history.
+
+Just the words.
+
+Too clean to be a prank.
+
+Too intimate to dismiss.
 
 He took a screenshot.
 
 The screenshot showed a blank screen.
 
-Skyler stared at the difference. He took another screenshot. This time it showed the message, but the timestamp had changed to 3:04 a.m.
+He stared at it, then took another.
 
-He looked at the clock on the wall.
+This time the message appeared—but the timestamp read 3:04 a.m.
+
+Skyler looked at the wall clock.
 
 3:18.
 
-The phone buzzed again.
+The phone buzzed in his hand.
 
 **DON’T TRUST THE PEOPLE HELPING YOU.**
 
-A third notification appeared before he could move.
+Before he could decide whether to throw it again, a third notification appeared.
 
 **THORNE KNOWS ABOUT THE DROP.**
 
@@ -1185,27 +1211,45 @@ The love had not.
 ## Chapter One
 ### The Phone
 
-At 6:12 on Monday morning, Skyler Blue woke with the conviction that someone had been standing in the doorway.
+At 6:12 on Monday morning, Skyler Blue woke certain somebody was standing in his doorway.
 
-The conviction disappeared when he opened his eyes, but the room kept its shape around it. Gray walls. Unmade bed. A shirt folded over the back of a chair. The door half-open by three inches, exactly as he had left it.
+He opened his eyes.
 
-He remained still.
+Nobody.
 
-His mind performed its old inventory. No footsteps. No broken latch. No cold air. No shadow under the door.
+The certainty stayed.
 
-The phone lay on the floor beside the bed, screen down, a hairline fracture running from one corner to the other. Skyler had thrown it against the wall at 3:21. The wall had won.
+Gray walls. Unmade bed. A shirt over the chair. The door open three inches, exactly where he had left it. Nothing moved.
+
+He listened.
+
+No footsteps.
+
+No broken latch.
+
+No breath except his own.
+
+On the floor beside the bed, his phone lay facedown with a crack running from corner to corner. He had thrown it against the wall at 3:21.
+
+The wall had won.
 
 He picked it up.
 
 Nothing.
 
-No message. No song. No mysterious notification. Only the ordinary collection of icons, each one waiting to explain the morning.
+No song. No impossible notification. No evidence that the night had happened at all. Just the ordinary grid of icons waiting to sell him weather, work, friendship, fear, groceries, and the morning.
 
-He told himself that the night had been a stress dream.
+Stress dream, he told himself.
 
-This was easier than admitting that the voice had used his words.
+That explanation almost worked.
 
-In the kitchen, the coffee machine flashed CLEAN ME. Skyler pressed the button anyway. The machine coughed, trembled, and produced a brown liquid with the moral character of rainwater.
+Then he remembered the voice using a sentence he had never posted.
+
+In the kitchen, the coffee machine flashed CLEAN ME.
+
+Skyler pressed BREW instead.
+
+The machine coughed, shuddered, and produced something brown enough to qualify by color.
 
 He drank it standing up.
 
@@ -2466,9 +2510,21 @@ YOU FINALLY NOTICED.
 ## Chapter Four
 ### The Drop
 
-Skyler spent the next two hours doing nothing.
+Skyler spent the next two hours trying not to do what fear wanted.
 
-He sat cross-legged on the scuffed wood floor with the bakery bag between his knees, waiting for the second hand to change. Nine-oh-one. Nine-oh-two. The apartment’s quiet had a texture he could feel against his skin. Refrigerator motor. The water lines in the wall clicking as they cooled. The halogen bulb above the sink humming slightly off-key.
+Fear wanted motion.
+
+Call everyone. Drive somewhere. Tear open the bag again. Search every symbol. Turn the whole city into a suspect.
+
+Instead, he sat cross-legged on the scuffed wood floor with the bakery bag between his knees and watched the clock change.
+
+Nine-oh-one.
+
+Nine-oh-two.
+
+The apartment reduced itself to ordinary machinery: refrigerator motor, water lines ticking as they cooled, the halogen bulb over the sink humming slightly off-key.
+
+Ordinary sounds had become work. He made himself hear them anyway.
 
 On the table: the plastic key, translucent and cheap, the size of a gum packet, with a grime-polished notch where a machine had bitten metal away. Beside it, the receipt—a heat-scored strip showing a vehicle model he hadn’t driven in years, a color, a time, and a location in the warehouse district. In the center of the table, because he wanted distance, he had set a glass mixing bowl and dropped into it the black fabric square as if it were a live thing. The square wasn’t glossy; it swallowed light. Threads along one edge looked melted, not cut. An insignia had been heat-pressed onto the cloth in dull silver: the image of a mirror with a veining fracture line, like a lightning fork frozen across a face.
 
@@ -3457,6 +3513,8 @@ He looked at Lena’s notebook and saw the columns begin to take shape. He saw t
 The laptop’s screen saver did not come on. The message remained where it was, simple and indifferent and alive.
 
 YOU HAVE PUBLISHED THE BAIT.
+
+# PART II — THE FEED
 
 ## Chapter Seven
 ### The Feed
@@ -5398,12 +5456,20 @@ He wrote on the sticky, and underlined it twice, the ink dragging a groove:
 
 Next: Find the person who signed ARC-202. Then find who told them he deserved a blessing.
 
+# PART III — THE OFFER
+
 ## Chapter Thirteen
 ### The Ledger
 
-The room they rented above the bookstore had no sign on the door and smelled like paper, old glue, and the kind of coffee that forgives bad decisions. The fan in the middle of the ceiling clicked every third turn, a metronome for nerves. Outside the narrow window, a delivery truck idled with the patience of a predator. On the windowsill, a jar the size of a fist held a scatter of coins, the old world’s way of counting.
+The money had names.
 
-Skyler kept his hands flat on the scarred oak table to keep from picking up the jar. It made a pleasant weight when he did. A small dishonest relief.
+That was the first useful thing about it.
+
+Not faces. Not motives. Not a mastermind waiting politely at the end of the chain. Names on filings, names on invoices, names attached to companies that had paid other companies to do things no one described plainly.
+
+The room above the bookstore had no sign on the door. It smelled of paper, old glue, and coffee strong enough to forgive bad decisions. The ceiling fan clicked every third turn. Outside the narrow window, a delivery truck idled at the curb. On the sill sat a fist-sized jar of coins—the old world’s version of a ledger.
+
+Skyler kept his hands flat on the scarred oak table.
 
 “Start with what we can prove,” Lena said.
 
@@ -6677,9 +6743,23 @@ He stood there listening until his phone gave one more small shiver on the sill 
 ## Chapter Seventeen
 ### The Third Player
 
-The rented room had an improvised smell. Dry-erase solvent and burned coffee, cardboard and old HVAC. Someone had taped a blanket over the thin window to muffle light as much as sound. An oscillating fan clicked in the corner like a metronome with a sore joint. On the table sat a battered cardboard box with a government seal scuffed by somebody’s shoe, a tangle of charging cables, and three phones sealed in gray sleeves like organ donors waiting for transport.
+By the third hour, the whiteboard looked less like an investigation than a family tree drawn by someone who hated everyone in it.
 
-Mara stood at the whiteboard with a black marker. She had rolled up her sleeves and tied her hair back, all business until the wind shifted. “I need this like a map,” she said, more to herself than anyone else.
+Three circles.
+
+Arrows.
+
+Dates.
+
+Company names.
+
+Question marks large enough to admit how little they actually knew.
+
+The rented room smelled of dry-erase solvent, burned coffee, cardboard, and old HVAC. Someone had taped a blanket over the thin window. An oscillating fan clicked in the corner. On the table sat a battered evidence box with its seal scuffed by somebody’s shoe, a snarl of charging cables, and three phones locked inside gray sleeves.
+
+Mara stood at the board with a black marker, sleeves rolled, hair tied back.
+
+“I need this like a map,” she said.
 
 She drew three circles. Not perfect; the marker buckled against the cheap surface and squealed. She wrote in block letters inside each circle.
 
@@ -7286,18 +7366,36 @@ Skyler looked at the closed folder with its neat initials and the note in his ow
 
 He looked around the room so he wouldn’t forget this moment, and for once, no one argued with him.
 
+# PART IV — THE FOURTH DOOR
+
 ## Chapter Nineteen
 ### The Truth Protocol
 
-He woke before the light. The kitchen had the blue of a screen that wasn’t there: refrigerator hum, the window still a square of charcoal. He boiled water in his mother’s dented kettle and lined up the stack of paper he had printed the night before with a carpenter’s care. The stack was heavy enough to shift the grain of the old oak table.
+Skyler woke before dawn and decided to make the truth boring.
 
-He had gone dull on purpose.
+It was the most radical thing he could think of.
 
-He centered the title on the first page and looked at it until it lost its shape.
+No soundtrack.
 
-THE TRUTH PROTOCOL: VERIFIED RECORD OF A NARRATIVE INFLUENCE OPERATION.
+No coded post.
 
-He could already hear the complaints in it: bureaucratic, bloodless, defensive. Good. Spectacle had eaten enough.
+No dramatic reveal.
+
+Just dates, sources, receipts, uncertainty, and sentences plain enough to survive being hated.
+
+His mother’s kitchen was blue with the light before morning. The refrigerator hummed. The window was still a square of charcoal. He boiled water in Maria’s dented kettle and aligned the pages he had printed the night before with a carpenter’s care.
+
+The stack was heavy enough to shift the grain of the old oak table.
+
+He centered the title on the first page.
+
+**THE TRUTH PROTOCOL: VERIFIED RECORD OF A NARRATIVE INFLUENCE OPERATION.**
+
+Bureaucratic. Bloodless. Defensive.
+
+Good.
+
+Spectacle had eaten enough.
 
 Mara sat cross-legged on the other side of the table with a mug she did not drink. Her knee bounced with contained voltage. Lena leaned in the doorway reading off her phone, lips moving over sentences as if tasting them. Reyes was a rectangle of voice from a speaker balanced on a cereal box. The house smelled like burnt toast and printer heat.
 
@@ -7577,6 +7675,8 @@ Consequence was not a threat. It was a promise you made to yourself.
 
 The file waited.
 
+# PART V — THE CHOSEN ONE
+
 ## Chapter Twenty
 ### The Fourth Door
 
@@ -7850,7 +7950,6 @@ The fourth door was not a code. It was not a sinkhole. It was not sport.
 
 It was a person choosing when to let the world in and when to leave it on the porch. It was a father at a concert who did not run. It was a man at a table who closed a computer without storming and slept anyway. It was the beginning of a job he would never finish.
 
-# PART V — THE CHOSEN ONE
 
 ## Chapter Twenty-One
 ### Thorne’s Secret
@@ -9102,11 +9201,17 @@ He put it to his ear. He heard the house breathe, the city wind, his own blood, 
 ## Chapter Twenty-Four
 ### The Choice
 
-The final release went out at dawn.
+At dawn, they released the thing everybody had spent months trying to turn into a spectacle.
 
-It was not triumphant. It did not bloom to trumpets and screens. It slid into the world through four plain doors that looked like nothing: a link on a public-interest legal archive that sometimes published zoning appeals, a quiet nonprofit with a server that preferred civic forms to spectacle, a journalist’s watchdog repository whose logo was a paperclip, and the local history room on the second floor of a city library where a fish tank hummed and a librarian with ballpoint tattoos labeled a binder.
+It arrived without one.
 
-It was smaller than the Network feared and larger than Thorne expected.
+No countdown. No anthem. No heroic photograph.
+
+Just four plain doors: a public-interest legal archive better known for zoning appeals, a quiet nonprofit server built for civic paperwork, a watchdog repository whose logo was a paperclip, and the local history room of a city library where a fish tank hummed beside a librarian labeling a binder in ballpoint ink.
+
+It was smaller than the Network feared.
+
+It was larger than Thorne expected.
 
 Skyler had not slept. He stood in the lank light of a morning that hadn’t decided whether to become gold or gray. The community technology center was an old bank with its vault turned into a lab. The open area had high windows that took the first blue. Maria made coffee on a hot plate and hummed a hymn without words. Caleb counted ports. Lena’s hair was in a knot so tight it looked as if it had been tied with intention alone. Mara leaned against the steel frame of the vault with her arms folded as if they were another gate.
 
@@ -9341,11 +9446,19 @@ None of them belonged to one person.
 ## Epilogue
 ### What Remains
 
-Six months later, Skyler stood outside the community technology center beneath an open sky.
+Six months later, the city had become ordinary again.
 
-A night’s rain had rinsed the air. The storm had left the pavement dark and reflective, so the buildings across the avenue leaned in the asphalt like ships in the bay of a child’s imagination. A bus sighed open at the curb and breathed out people who checked their screens as if consulting weather: a woman in a neat coat, a boy dragging a tuba case, a man with paint on his fingers from a job that would never be tagged.
+Not innocent.
 
-Skyler’s phone was in his pocket.
+Ordinary.
+
+Skyler stood outside the community technology center after a night of rain. The pavement was dark enough to hold reflections: buildings, traffic lights, a strip of clearing sky. A bus sighed open at the curb and released a woman in a neat coat, a boy dragging a tuba case, and a man with dried paint on his fingers.
+
+Nobody looked like a clue.
+
+Skyler noticed that.
+
+His phone stayed in his pocket.
 
 It was still a phone. It still interrupted him with news he had not requested, offered him a winter jacket after he had bought one, remembered the search he had made at 2 a.m. and pretended to forget the one that had gotten him through a morning. He no longer needed it to be innocent to live with it. More importantly, he no longer needed it to be guilty to justify his caution.
 
@@ -9561,15 +9674,27 @@ A door with a light beside it.
 
 And maybe, if you paid attention, that was enough material to build a home from.
 
-Above him, the sky opened without explanation. It was not a sign. It was an open sky.
+Above him, the sky opened without explanation.
 
-Survival had created the warrior.
+Not a sign.
 
-Love had reminded him what the warrior was for.
+Just sky.
 
-Purpose had decided what he became next.
+For years he had thought survival was the ending.
 
-And the story, at last, no longer needed him to carry it alone.
+It was not.
+
+Survival had only kept him on the board long enough to learn what mattered after the fight.
+
+Love had reminded him why.
+
+Purpose gave him somewhere to go.
+
+And somewhere behind him were three girls who did not need a chosen one.
+
+They needed their dad.
+
+At last, that was enough.
 
 ---
 
