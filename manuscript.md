@@ -9,9 +9,505 @@
 
 ## Dedication
 
-For Luna, Summer, and Alexis.
+For **Kaylee**, my first love.
 
-For every child who has waited for an adult to become brave in the right way.
+For **Luna, Summer, and Alexis**, my three daughters and the people I love most.
+
+This is the part I never want the thriller to swallow.
+
+Before the glitch, before the courtrooms, before the strange messages, before the algorithms, before the code became both an escape and a mission, there was something much simpler:
+
+There was us.
+
+Kaylee and I were young and trying to figure out adulthood while already building a family. We **bought a house** and tried to make it ours. Not some perfect movie version of a family—an actual one. There were mornings under the same roof, babies becoming little girls, toys where somebody was going to step on them, laundry that never seemed finished, work schedules, bills on the table, meals, church mornings, birthdays, holidays, tired nights, inside jokes, stupid arguments, apologies, plans, worries, laughter, and the quiet assumption that there would always be another ordinary day after this one.
+
+I did not understand how valuable ordinary was while I was living inside it.
+
+I do now.
+
+If I could choose between one more dramatic answer to every mystery in this book or one more completely unremarkable day with the people I loved, I would choose the ordinary day.
+
+I would choose homework.
+
+I would choose church on Sunday.
+
+I would choose coming home tired from work.
+
+I would choose a volunteer shift at the shelter.
+
+I would choose a stupid dad joke nobody laughed at.
+
+I would choose a chessboard left sitting on the table.
+
+I would choose one of my daughters asking me a question while I was distracted by something I would eventually realize did not matter nearly as much as she did.
+
+Those were not the boring parts.
+
+**Those were the treasure.**
+
+Girls, the simplest truth I can leave you is the truth I kept trying to say even when I said everything else badly:
+
+**I loved you. I fought very hard for the time I got with you. I wanted more of it.**
+
+Not only the important days people take pictures of.
+
+I wanted the thousands of small moments that make somebody a dad.
+
+I wanted first days of school and the stories you told afterward. I wanted homework spread across a table. I wanted to help with projects at the last possible minute. I wanted late-night snacks, scraped knees, forgotten permission slips, new hobbies, bad moods, good news, broken phones, lost keys, school dances, chess competitions, lessons, birthdays, holidays, graduations, first jobs, new dreams, heartbreaks, victories, mistakes, and phone calls that started with, “Dad, this is going to sound crazy.”
+
+I wanted to be the person you could call when something broke.
+
+When somebody hurt you.
+
+When you were scared.
+
+When you were excited.
+
+When you needed money for something important.
+
+When you needed somebody to tell you the truth.
+
+When you did something you were proud of.
+
+When you messed up and were afraid to tell anybody.
+
+When you did not need advice at all and just wanted your dad to listen.
+
+I wanted to watch each of you become yourselves—not versions of me.
+
+I wanted to pay for lessons when I could, help with school, teach you what I knew, admit what I did not know, show up for the things that mattered to you, and learn the things I did not understand simply because you cared about them.
+
+I wanted the future parts too.
+
+I wanted to see what kind of adults you became. I wanted to hear what work you chose, what places you wanted to see, what ideas you believed in, what you changed your minds about, who you loved, and what kind of lives you decided were worth building. I wanted to be around long enough for you to discover that your dad did not need you to become rich, famous, perfect, or impressive.
+
+You never had to earn my love with an achievement.
+
+You were my daughters before every grade, every trophy, every argument, every mistake, every success, and every mile between us.
+
+If all you ever became was happy, kind, independent, curious, and capable of choosing your own lives, that would have been enough for me.
+
+And if life ever made you feel like you had to perform for love, I hope you remember this:
+
+**You never had to perform for mine.**
+
+Kaylee, I wish we had never been separated.
+
+You were my first love, and I refuse to let the ending become the only part of our story that survives.
+
+We did not build a house.
+
+**We bought one.**
+
+And for a while, that house held the future I thought I was going to grow old inside.
+
+We became parents together. We were young people learning adulthood while already responsible for children, a house, work, family, and each other. We were tired sometimes. Stubborn sometimes. Hopeful sometimes. Scared sometimes. We got things right and we got things wrong. But there was a time when I believed we had years to figure all of it out.
+
+I believed the hard seasons would pass.
+
+I believed arguments would become old stories.
+
+I believed holidays would get louder as the girls got older.
+
+I imagined them growing up and coming back through our front door as adults. I imagined us complaining about something ordinary after everybody else had gone to sleep. I imagined looking across the room years later and remembering how young we had been when all of this started.
+
+I remember more than the breakup.
+
+I remember the family before it.
+
+I remember believing we had time.
+
+That is part of what I grieve.
+
+I never wanted to let you go, Kaylee.
+
+That does not mean I think I was always right. I was not.
+
+I am sorry for the hurt, the distance, the things I got wrong, the moments fear became louder than patience, and the times I thought explaining myself mattered more than listening.
+
+Love does not erase accountability.
+
+But mistakes do not erase love either.
+
+You mattered to me before the book, before the theories, before anybody else had an opinion about our story, and you still belong in the part of my life I remember with love.
+
+Then everything became harder to explain.
+
+There were courtrooms. Accusations. Family conflict. Separation. Technology that sometimes stopped feeling like a tool and started feeling like a mirror. Strange messages. Strange timing. Advertisements and songs that seemed too relevant. People saying things that felt connected to conversations they should not have known about. Jobs, relationships, legal problems, and private fears began to overlap until normal life felt like one enormous pattern.
+
+There were periods when I believed government actors, institutions, criminals, private people, or some combination of them were targeting me and helping pull my life apart.
+
+This book does not ask Kaylee or my daughters to inherit that conclusion.
+
+I do not want you to inherit my fear.
+
+Some things I believed may have been right.
+
+Some may have been wrong.
+
+Some may have been partly right for reasons I misunderstood.
+
+Some may have been ordinary coincidences that became enormous because I was exhausted, hurt, angry, scared, and desperately trying to make chaos explain itself.
+
+And some questions may never have an answer I can prove.
+
+That uncertainty is one reason this became a novel instead of a declaration.
+
+But there are things I do not need a theory to know.
+
+The separation hurt.
+
+Losing ordinary family life hurt.
+
+Missing my daughters hurt.
+
+Watching the future I had imagined with my first love turn into something I could only revisit in memory hurt.
+
+Whatever explanation survives the years, **that part was real to me.**
+
+There is something else I want restored exactly in spirit, because I have said it in rough ways before and I do not want the meaning lost.
+
+I have said things like:
+
+**“The judge let me walk for murder in 2020.”**
+
+And in even rougher language, I have described it as if I had “walked for murder by the grace of God because I was a good dad during COVID.”
+
+Those are not precise legal statements, and I do not want my daughters someday reading those lines as if they were findings written in a court order.
+
+They were the language of a man trying to describe how close he felt to losing his entire future.
+
+The real meaning was simpler:
+
+**That judge gave me time.**
+
+In my head, I sometimes counted it as five more years with my children.
+
+Five more years in which I got to wake up and still be somebody's dad.
+
+Five more years in which there were ordinary mornings I did not know I would someday miss this much.
+
+I got to work.
+
+I got to go to school.
+
+I got to volunteer.
+
+I got to go to church.
+
+I got to help people.
+
+I got to be with family.
+
+I got to make mistakes that were not the end of my life.
+
+I got to learn.
+
+I got to write.
+
+I got to build software.
+
+I got to start companies.
+
+I got to create SKYCOIN4444, HopeAI, SkySchool, SkyHope, and more ideas than any reasonable person probably needed.
+
+I got to play chess.
+
+I got to dream too big.
+
+I got to fail.
+
+I got to try again.
+
+Most importantly, I got more time with my daughters.
+
+I have always carried a strange respect for the court because of that.
+
+At times, disrespecting the judge felt almost like taking God's name in vain—not because a judge is God, but because in that room I understood that one human decision could change the entire shape of a family's future.
+
+So if that judge ever reads this:
+
+**Thank you.**
+
+Thank you for the opportunity.
+
+Thank you for the time.
+
+I know I did not use every day perfectly.
+
+Nobody does.
+
+But I tried to use what I was given for family, work, education, service, faith, creativity, and building something useful.
+
+I volunteered because I wanted to be useful to people whose lives were harder than mine.
+
+Hope Campus mattered to me because homelessness stops being an argument when you are standing next to a human being who needs help.
+
+I went to school because learning meant I still believed I had a future.
+
+I worked because responsibility gives a person gravity.
+
+I went to church because I needed something larger than my anger.
+
+I built because creating something felt better than letting pain turn me into somebody who only destroyed.
+
+I became obsessed with technology because a blank screen could still become something that had never existed five minutes earlier.
+
+I kept returning to one word:
+
+**Hope.**
+
+Hope Campus.
+
+HopeAI.
+
+SkyHope.
+
+Different parts of my life.
+
+Same word.
+
+Maybe that was never an accident.
+
+Maybe somebody who spends enough time around darkness starts naming things after the opposite of it.
+
+I wanted to prove with my life—not with a speech, not with an argument, not with one good day—that the opportunity I was given was worth giving.
+
+I still want to do something good with it.
+
+Maybe even something great.
+
+But if I never become anything the world calls great, then I hope being a father who loved his daughters, tried to help people, kept learning, and kept creating was enough.
+
+Luna. Summer. Alexis.
+
+Morning light still gets me.
+
+There is something about the first light through a window that can bring back an entire life without asking permission.
+
+I think about waking up when you were little.
+
+I think about hearing a house become a family one room at a time.
+
+Somebody needed breakfast.
+
+Somebody needed shoes.
+
+Somebody could not find something.
+
+Somebody had a question before I was fully awake.
+
+There was rain against a window.
+
+Cartoons in another room.
+
+A chess piece left where somebody forgot it.
+
+A laugh from down the hall.
+
+The ordinary noise of people you love existing close enough that you do not yet understand what silence will feel like later.
+
+That is why **Zach Bryan's “Something in the Orange”** became attached to this part of my memory.
+
+I am not going to copy the lyrics. They belong to the songwriter.
+
+What stays with me is the emotional landscape around the song: changing light, distance, love, memory, and the terrible way beauty can make you notice who is missing.
+
+Orange morning light and orange evening light can feel like opposite ends of the same question.
+
+A day is beginning.
+
+A day is ending.
+
+And somewhere between those two things, you are thinking about somebody you wish was standing beside you.
+
+For me, that feeling became connected to Kaylee and to my girls.
+
+Not because a song can explain us.
+
+It cannot.
+
+But sometimes music finds the emotion before you find the sentence.
+
+**“Feathered Indians”** connects to another part of the memory.
+
+Young love.
+
+Love before you understand how fragile a future can be.
+
+Love that is funny, reckless, physical, stubborn, tender, imperfect, and alive.
+
+It reminds me of being young enough to believe that if love felt powerful enough, it would automatically survive every mistake.
+
+Growing older taught me something harder.
+
+Love can be real and still need patience.
+
+Love can be real and still need humility.
+
+Love can be real and still be damaged.
+
+Love can be real even when two people do not make it to the ending they once imagined.
+
+Those songs do not tell our story.
+
+They only touch places in memory where our story already lives.
+
+The words I need you to hear are mine:
+
+**I love you.**
+
+**I wanted more time.**
+
+I wanted more mornings under the same roof.
+
+More birthdays.
+
+More school days.
+
+More boring evenings.
+
+More holidays.
+
+More arguments that became jokes later.
+
+More chess games.
+
+More questions from the kitchen.
+
+More waiting rooms.
+
+More grocery-store problems.
+
+More moments where nothing important seemed to be happening.
+
+More nights when the biggest problem in the world was what we were eating for dinner.
+
+I wanted to see who you became.
+
+I wanted to be there when life was beautiful.
+
+I wanted to be there when it was ugly.
+
+I wanted to be useful to you without controlling you.
+
+I wanted to be your dad when you were little, when you were teenagers, when you were adults, and when you no longer needed me in the same ways.
+
+I never wanted our family story to end at the point where things went wrong.
+
+If you find this book years from now, do not treat it like scripture.
+
+Do not feel obligated to defend me.
+
+Do not inherit every fear I had.
+
+Do not mistake my interpretation for your memory.
+
+Keep what helps you.
+
+Question what does not.
+
+Correct what I got wrong.
+
+Laugh at the parts that deserve it.
+
+Find the Easter eggs.
+
+Beat my chess puzzles.
+
+Make fun of my dramatic titles.
+
+Roll your eyes when I deserve it.
+
+Tell your own version of the family story.
+
+Your voices belong in it too.
+
+What I wanted to leave was not evidence for a courtroom.
+
+I wanted to leave **evidence for my children**.
+
+Evidence that your father was here.
+
+That he thought.
+
+Built.
+
+Failed.
+
+Loved.
+
+Got angry.
+
+Made jokes at terrible times.
+
+Played too much chess.
+
+Wrote code nobody asked for.
+
+Dreamed far beyond his resources.
+
+Tried to help homeless people.
+
+Tried to build companies.
+
+Tried to learn about a world bigger than his hometown.
+
+Tried to become better.
+
+Sometimes succeeded.
+
+Sometimes spectacularly did not.
+
+But kept trying.
+
+Maybe the greatest thing I ever built will not be a cryptocurrency.
+
+Or an AI.
+
+Or a company.
+
+Or a book.
+
+Maybe it will simply be the evidence that when life became complicated, I kept trying to create instead of destroy.
+
+And if you ever wonder what I wanted all this work to become, the answer was never just money or fame.
+
+I wanted it to become **time with you, opportunities for you, education, security, choices, laughter, ridiculous family jokes, help when you needed it, stories worth retelling, and a future in which you always knew your dad loved you.**
+
+If somebody someday gives you ten different versions of who I was, start before the glitch.
+
+Before the companies.
+
+Before the code.
+
+Before the courtrooms.
+
+Before the fear.
+
+You will find a kid.
+
+Then a worker.
+
+Then a student.
+
+Then a father.
+
+Then somebody volunteering at a homeless shelter.
+
+Then somebody sitting behind a computer late at night believing he might still build something useful.
+
+That is me.
+
+Everything else came afterward.
+
+And there is one thing I do not want hidden in an Easter egg:
+
+**Luna, Summer, Alexis—I love you.**
+
+**Kaylee—you were my first love, and I will always be grateful that our story gave me our girls.**
+
+Whatever else this book becomes, let that be the part nobody has to decode.
 
 ---
 
@@ -5079,6 +5575,21 @@ Skyler smiled.
 
 “I will.”
 
+Skyler reached into his pocket before the moment could become another explanation.
+
+For Luna, a small black chess knight. For Summer, a blue card marked with rain. For Alexis, a seashell.
+
+“I believe in the way you think,” he told Luna. “I believe storms do not get to define you,” he told Summer. “I believe the small things you notice matter,” he told Alexis.
+
+Then he looked at all three girls.
+
+“I was proud of you before you proved anything. Before grades, trophies, jobs, money, applause, or anybody else's opinion. You can succeed, fail, agree with me, disagree with me, and become people I never could have predicted. I love you because you are my daughters. I believe in you because you are becoming yourselves.”
+
+**Proud before proof.**
+
+It was a better rule than any system he had ever built.
+
+
 Luna looked at the violin case. “Are you going to jail?”
 
 “I don’t think so.”
@@ -5302,6 +5813,23 @@ The blank door now contained a small yellow square.
 “Is it a door?”
 
 “No,” Luna replied. “It’s what you put near a door so people can see.”
+
+Luna's chess knight hung from her bag. Summer had added rain to the drawing. Alexis carried the seashell in her pocket.
+
+In a harmless demo project at the center, Skyler had hidden four lines for them:
+
+`knight = Luna`
+
+`rain = Summer`
+
+`shell = Alexis`
+
+`PROUD_BEFORE_PROOF = true`
+
+There was one more family joke in the comments: the self-moving Christmas chessboard he had once imagined paying roughly thirteen hundred dollars for after two or three days digging plants. He could picture a six-year-old watching the pieces glide like movie magic, becoming curious enough to learn, maybe pulling her sisters into the game. He hoped Kaylee would help keep the board safe long enough for Alexis to inherit her turn.
+
+The board was never the real inheritance. The table was. The invitation was. The message was simple: **sit down, make a move, and know Dad is proud of you before the result.**
+
 
 Skyler looked at the drawing.
 

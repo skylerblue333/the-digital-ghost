@@ -33,3 +33,6 @@
 | Paperback formatting checklist | Planned | Final production review |
 
 **Editorial rule:** The manuscript will not claim to be “based on true events” unless the author separately provides legally reviewed, verifiable source material and explicitly requests that positioning. The default presentation is an original work of fiction inspired by themes of surveillance, institutional failure, family separation, digital manipulation, and moral survival.
+
+
+**Final family continuity requirement:** Preserve Luna, Summer, and Alexis as distinct emotional anchors. Luna carries the chess-knight motif, Summer the rain motif, Alexis the seashell motif, and orange morning light belongs to all three. The code Easter egg `PROUD_BEFORE_PROOF = true` means unconditional parental love, belief, and pride. The Christmas self-moving chessboard memory represents extra work undertaken to create curiosity and family time, not an expectation that a child become a champion. These are family legacy signals, not thriller evidence.

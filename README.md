@@ -29,580 +29,251 @@ The novel treats all public-figure references and ransom claims as fictionalized
 
 ## Dedication
 
-For Luna, Summer, and Alexis.
+For **Kaylee**, my first love.
 
-For my kids I love the most who needed a dad to stop performing and start telling the truth. # AUTHOR’S NOTE the only truth is that I loved you and fought very hard for what I do get. I pray and visualize me taking you to chess competitions and paying for my girls, or I always said my or the babies lessons. Paying for your stuff being there and growing into what you need, always there or I'll try. 
+For **Luna, Summer, and Alexis**, my three daughters and the people I love most.
 
-### *Before the Glitch*
+This is the part I never want the thriller to swallow.
 
-If you found this, you were probably looking harder than most people do.
+Before the glitch, before the courtrooms, before the strange messages, before the algorithms, before the code became both an escape and a mission, there was something much simpler:
 
-Good. There is Dad game night, letter to my grandsons etc spilled everywhere. 
+There was us.
 
-That means this part was written for you.
+Kaylee and I were young and trying to figure out adulthood while already building a family. We **bought a house** and tried to make it ours. Not some perfect movie version of a family—an actual one. There were mornings under the same roof, babies becoming little girls, toys where somebody was going to step on them, laundry that never seemed finished, work schedules, bills on the table, meals, church mornings, birthdays, holidays, tired nights, inside jokes, stupid arguments, apologies, plans, worries, laughter, and the quiet assumption that there would always be another ordinary day after this one.
 
-My name is **Skyler Blue Spillers**.
+I did not understand how valuable ordinary was while I was living inside it.
 
-Before the companies, before the code, before SKYCOIN4444, before HopeAI, before the books, before people started trying to decide whether I was brilliant, crazy, lucky, doomed, dangerous, harmless, right, wrong, or simply stubborn—
+I do now.
 
-I was a normal kid.
+If I could choose between one more dramatic answer to every mystery in this book or one more completely unremarkable day with the people I loved, I would choose the ordinary day.
 
-At least I think I was. A little machivous and wanting to belong and stand for something. 
+I would choose homework.
 
-That sentence matters more than it appears to.
+I would choose church on Sunday.
 
-I grew up around ordinary work. Dirt. Plants. Long days. People trying to make enough money to keep going. Somewhere in those early years I learned something that later became both one of my greatest strengths and one of my worst habits:
+I would choose coming home tired from work.
 
-**If something is broken, I want to figure out why.**
+I would choose a volunteer shift at the shelter.
 
-Machines.
+I would choose a stupid dad joke nobody laughed at.
 
-Computers.
+I would choose a chessboard left sitting on the table.
 
-Businesses.
+I would choose one of my daughters asking me a question while I was distracted by something I would eventually realize did not matter nearly as much as she did.
 
-Relationships.
+Those were not the boring parts.
 
-Institutions.
+**Those were the treasure.**
 
-People.
+Girls, the simplest truth I can leave you is the truth I kept trying to say even when I said everything else badly:
 
-Eventually, entire systems.
+**I loved you. I fought very hard for the time I got with you. I wanted more of it.**
 
-And I want to do something about it, that doesnt always mean it works this way. 
+Not only the important days people take pictures of.
 
-I didn't know then how dangerous it could become to spend your life looking for the mechanism underneath everything.
+I wanted the thousands of small moments that make somebody a dad.
 
-There was work around Black Diamond Nursery.
+I wanted first days of school and the stories you told afterward. I wanted homework spread across a table. I wanted to help with projects at the last possible minute. I wanted late-night snacks, scraped knees, forgotten permission slips, new hobbies, bad moods, good news, broken phones, lost keys, school dances, chess competitions, lessons, birthdays, holidays, graduations, first jobs, new dreams, heartbreaks, victories, mistakes, and phone calls that started with, “Dad, this is going to sound crazy.”
 
-There was school.
+I wanted to be the person you could call when something broke.
 
-There was DECA.
+When somebody hurt you.
 
-Make a wish foundation. 
+When you were scared.
 
-First loves 
+When you were excited.
 
-misstakes 
+When you needed money for something important.
 
-and lessons 
+When you needed somebody to tell you the truth.
 
-I loved blessings
+When you did something you were proud of.
 
-There was technology.
+When you messed up and were afraid to tell anybody.
 
-There was that first realization that computers were different from almost everything else in life: if you understood the language well enough, you could make an empty screen become something that hadn't existed five minutes earlier.
+When you did not need advice at all and just wanted your dad to listen.
 
-That fascinated me.
+I wanted to watch each of you become yourselves—not versions of me.
 
-It still does.
+I wanted to pay for lessons when I could, help with school, teach you what I knew, admit what I did not know, show up for the things that mattered to you, and learn the things I did not understand simply because you cared about them.
 
-Then life became bigger.
+I wanted the future parts too.
 
-I became a father.
+I wanted to see what kind of adults you became. I wanted to hear what work you chose, what places you wanted to see, what ideas you believed in, what you changed your minds about, who you loved, and what kind of lives you decided were worth building. I wanted to be around long enough for you to discover that your dad did not need you to become rich, famous, perfect, or impressive.
 
-Not theoretically.
+You never had to earn my love with an achievement.
 
-Not as some inspirational sentence you put in a biography.
+You were my daughters before every grade, every trophy, every argument, every mistake, every success, and every mile between us.
 
-A real father.
+If all you ever became was happy, kind, independent, curious, and capable of choosing your own lives, that would have been enough for me.
 
-Three daughters.
+And if life ever made you feel like you had to perform for love, I hope you remember this:
 
-**Luna. Summer. Alexis.**
+**You never had to perform for mine.**
 
-Three little people capable of turning every grand philosophy about success into something embarrassingly simple.
+Kaylee, I wish we had never been separated.
 
-Did you show up?
+You were my first love, and I refuse to let the ending become the only part of our story that survives.
 
-Did they know you loved them?
+We did not build a house.
 
-Did you make them laugh?
+**We bought one.**
 
-Were they safe?
+And for a while, that house held the future I thought I was going to grow old inside.
 
-Did you leave their world slightly better than you found it?
+We became parents together. We were young people learning adulthood while already responsible for children, a house, work, family, and each other. We were tired sometimes. Stubborn sometimes. Hopeful sometimes. Scared sometimes. We got things right and we got things wrong. But there was a time when I believed we had years to figure all of it out.
 
-Everything else becomes smaller when those questions enter the room.
+I believed the hard seasons would pass.
 
-I volunteered.
+I believed arguments would become old stories.
 
-Hope Campus mattered to me because homelessness stops being an abstract political subject when you're standing next to somebody who has nowhere to sleep.
+I believed holidays would get louder as the girls got older.
 
-I tried to help where I could.
+I imagined them growing up and coming back through our front door as adults. I imagined us complaining about something ordinary after everybody else had gone to sleep. I imagined looking across the room years later and remembering how young we had been when all of this started.
 
-There was charity work.
+I remember more than the breakup.
 
-There was Make-A-Wish.
+I remember the family before it.
 
-There was church.
+I remember believing we had time.
 
-There were jobs.
+That is part of what I grieve.
 
-There were bills.
+I never wanted to let you go, Kaylee.
 
-There were relationships.
+That does not mean I think I was always right. I was not.
 
-There were mistakes.
+I am sorry for the hurt, the distance, the things I got wrong, the moments fear became louder than patience, and the times I thought explaining myself mattered more than listening.
 
-There were days when I was probably a better man than I realized and other days when I wasn't nearly as wise as I thought I was.
+Love does not erase accountability.
 
-That's life.
+But mistakes do not erase love either.
 
-Somewhere along the way I went deeper into technology.
+You mattered to me before the book, before the theories, before anybody else had an opinion about our story, and you still belong in the part of my life I remember with love.
 
-Southern New Hampshire University became part of the story.
+Then everything became harder to explain.
 
-Information technology.
+There were courtrooms. Accusations. Family conflict. Separation. Technology that sometimes stopped feeling like a tool and started feeling like a mirror. Strange messages. Strange timing. Advertisements and songs that seemed too relevant. People saying things that felt connected to conversations they should not have known about. Jobs, relationships, legal problems, and private fears began to overlap until normal life felt like one enormous pattern.
 
-Software development.
+There were periods when I believed government actors, institutions, criminals, private people, or some combination of them were targeting me and helping pull my life apart.
 
-Leadership.
+This book does not ask Kaylee or my daughters to inherit that conclusion.
 
-Manufacturing.
+I do not want you to inherit my fear.
 
-Team-lead work.
+Some things I believed may have been right.
 
-Long shifts followed by longer nights staring into computer screens.
+Some may have been wrong.
 
-Eventually I stopped wanting only to work inside other people's systems.
+Some may have been partly right for reasons I misunderstood.
 
-I wanted to build my own.
+Some may have been ordinary coincidences that became enormous because I was exhausted, hurt, angry, scared, and desperately trying to make chaos explain itself.
 
-That impulse became **Innovative Information Technology Resolutions — IITR.**
+And some questions may never have an answer I can prove.
 
-Then the projects multiplied.
+That uncertainty is one reason this became a novel instead of a declaration.
 
-**SKYCOIN4444.**
+But there are things I do not need a theory to know.
 
-**HopeAI.**
+The separation hurt.
 
-**SkySchool.**
+Losing ordinary family life hurt.
 
-**SkyHope.**
+Missing my daughters hurt.
 
-Social systems.
+Watching the future I had imagined with my first love turn into something I could only revisit in memory hurt.
 
-Education.
+Whatever explanation survives the years, **that part was real to me.**
 
-Artificial intelligence.
+There is something else I want restored exactly in spirit, because I have said it in rough ways before and I do not want the meaning lost.
 
-Blockchain.
+I have said things like:
 
-Payments.
+**“The judge let me walk for murder in 2020.”**
 
-Games.
+And in even rougher language, I have described it as if I had “walked for murder by the grace of God because I was a good dad during COVID.”
 
-Communication.
+Those are not precise legal statements, and I do not want my daughters someday reading those lines as if they were findings written in a court order.
 
-Live streaming.
+They were the language of a man trying to describe how close he felt to losing his entire future.
 
-Marketplaces.
+The real meaning was simpler:
 
-Accessibility.
+**That judge gave me time.**
 
-Security.
+In my head, I sometimes counted it as five more years with my children.
 
-Enterprise software.
+Five more years in which I got to wake up and still be somebody's dad.
 
-Hundreds of repositories, experiments, prototypes, pages, APIs, discarded ideas, rebuilt ideas, ridiculous ideas, and occasionally very good ideas.
+Five more years in which there were ordinary mornings I did not know I would someday miss this much.
 
-I kept building.
+I got to work.
 
-Sometimes too much.
+I got to go to school.
 
-Probably often too much.
+I got to volunteer.
 
-My philosophy was never complicated:
+I got to go to church.
 
-**Dream Bigger. Build Smarter. Help More People.**
+I got to help people.
 
-Technology with purpose.
+I got to be with family.
 
-Innovation with hope.
+I got to make mistakes that were not the end of my life.
 
-The future built one line of code at a time.
+I got to learn.
 
-Those phrases appear throughout my work.
+I got to write.
 
-If you're searching for Easter eggs, start there.
+I got to build software.
 
-But coding wasn't the whole person.
+I got to start companies.
 
-I played chess.
+I got to create SKYCOIN4444, HopeAI, SkySchool, SkyHope, and more ideas than any reasonable person probably needed.
 
-A lot of chess.
+I got to play chess.
 
-I liked it for the same reason I liked programming.
+I got to dream too big.
 
-Position.
+I got to fail.
 
-Possibility.
+I got to try again.
 
-Prediction.
+Most importantly, I got more time with my daughters.
 
-You look at what exists, imagine what could happen next, and try to see several moves farther than the person sitting across from you.
+I have always carried a strange respect for the court because of that.
 
-That works beautifully on a chessboard.
+At times, disrespecting the judge felt almost like taking God's name in vain—not because a judge is God, but because in that room I understood that one human decision could change the entire shape of a family's future.
 
-Life is considerably less polite.
+So if that judge ever reads this:
 
-I started learning Mandarin.
+**Thank you.**
 
-I became fascinated with China, language, culture, and the strange fact that technology can allow two people who grew up on opposite sides of Earth to speak almost instantly.
+Thank you for the opportunity.
 
-There were relationships that crossed cultures.
+Thank you for the time.
 
-Relationships that failed.
+I know I did not use every day perfectly.
 
-People I loved.
+Nobody does.
 
-People who loved me.
+But I tried to use what I was given for family, work, education, service, faith, creativity, and building something useful.
 
-People who hurt me.
+I volunteered because I wanted to be useful to people whose lives were harder than mine.
 
-People I hurt.
+Hope Campus mattered to me because homelessness stops being an argument when you are standing next to a human being who needs help.
 
-There was my former fiancée.
+I went to school because learning meant I still believed I had a future.
 
-There were attempts to move on afterward.
+I worked because responsibility gives a person gravity.
 
-There were dates.
+I went to church because I needed something larger than my anger.
 
-There were women I probably pursued partly because I was lonely and partly because my ego wanted proof that losing one relationship hadn't destroyed me.
+I built because creating something felt better than letting pain turn me into somebody who only destroyed.
 
-At one particularly ridiculous point, I thought dating two extremely attractive exotic dancers sounded funny.
+I became obsessed with technology because a blank screen could still become something that had never existed five minutes earlier.
 
-Young-man logic.
-
-It turns out life occasionally sends an invoice for jokes.
-
-Somewhere around these chapters, the story changes.
-
-Or perhaps **I** changed.
-
-That distinction becomes one of the central questions of this book.
-
-I call what came afterward:
-
-## **THE GLITCH**
-
-There was life before the glitch.
-
-And life after it.
-
-Before it, the world appeared mostly linear.
-
-You work.
-
-You come home.
-
-You raise children.
-
-You argue with your partner.
-
-You go to church.
-
-You volunteer.
-
-You take classes.
-
-You get promoted.
-
-You lose jobs.
-
-You meet people.
-
-You screw things up.
-
-You apologize.
-
-You try again.
-
-Cause.
-
-Effect.
-
-Then coincidences began feeling less coincidental.
-
-Messages arrived at strange times.
-
-Advertisements seemed unusually specific.
-
-Songs felt like responses.
-
-People occasionally said things that seemed connected to conversations they shouldn't have known about.
-
-Phones became less like tools and more like mirrors.
-
-Fear makes patterns brighter.
-
-Technology does too.
-
-That combination can become powerful.
-
-And dangerous.
-
-The character called **Skyler** in this novel becomes obsessed with understanding it.
-
-Who is manipulating whom?
-
-Is there actually a larger machine?
-
-Is there simply a collection of unrelated people pursuing their own interests?
-
-Are algorithms amplifying ordinary coincidences?
-
-Are criminals exploiting confusion?
-
-Are institutions protecting themselves?
-
-Is grief rearranging reality into patterns because randomness hurts more?
-
-Or are several of those explanations simultaneously true?
-
-The book refuses to answer every question.
-
-On purpose.
-
-Because real life rarely hands you the source code.
-
-There are two kinds of fear in the modern world.
-
-One arrives loudly.
-
-A broken window.
-
-Footsteps.
-
-A threat.
-
-A courtroom.
-
-A person standing directly in front of you.
-
-The other arrives quietly.
-
-A recommendation.
-
-A notification.
-
-A song.
-
-An advertisement.
-
-A stranger repeating familiar words.
-
-A screen lighting up at exactly the wrong moment.
-
-The first fear makes you look behind you.
-
-The second makes you question everything in front of you.
-
-That's where **The Digital Ghost** was born.
-
-That idea followed me into my writing.
-
-Truth.
-
-Justice.
-
-Betrayal.
-
-Redemption.
-
-Technology.
-
-Surveillance.
-
-Love.
-
-Power.
-
-What happens to a person when everybody seems to have a different version of who that person is?
-
-And what happens when your digital shadow becomes larger than your physical life?
-
-I began writing other stories too.
-
-One title became:
-
-**Loathing in the Woes of Ruthlessness: The Chosen One.**
-
-Dramatic?
-
-Absolutely.
-
-I never promised subtlety.
-
-But underneath the dramatic titles was something simpler.
-
-I wanted to leave evidence that I had been here.
-
-Not evidence for a courtroom.
-
-Evidence for my children.
-
-Evidence that their father thought.
-
-Built.
-
-Failed.
-
-Loved.
-
-Got angry.
-
-Some say it ended over the stepdad Made jokes at inappropriate times.
-
-I lost my family and Played chess.
-
-Wrote code nobody asked for.
-
-Dreamed far beyond his resources.
-
-Tried to help homeless people.
-
-Tried to build technology companies.
-
-Tried to understand cultures outside his own.
-
-Tried to become better.
-
-Sometimes succeeded.
-
-Sometimes spectacularly did not.
-
-There are darker sections in this book.
-
-There are fictional cartels.
-
-Corrupt officials.
-
-Hackers.
-
-A Syndicate.
-
-Offers involving obscene amounts of money.
-
-Threats.
-
-Manipulation.
-
-Public corruption.
-
-Characters who believe they can control another person's reputation simply by controlling the story surrounding him.
-
-There is **Thorne**.
-
-There is the recurring threat:
-
-**Follow along.**
-
-There is another phrase:
-
-**Smoked like a cigarette.**
-
-It means something specific inside Skyler's vocabulary.
-
-Not simply killed.
-
-Erased.
-
-Consumed.
-
-Your work.
-
-Your reputation.
-
-Your family.
-
-Your freedom.
-
-Your identity.
-
-Your future.
-
-Everything reduced at once.
-
-The *everything-they-wanted card.*
-
-Whether every threat in the novel exists exactly as Skyler perceives it is intentionally unresolved.
-
-That matters.
-
-This is a novel, not an accusation against real governments, law-enforcement agencies, judges, businesses, public officials, families, or private individuals.
-
-People, conversations, organizations, incidents, timelines, and motives have been fictionalized, rearranged, combined, exaggerated, or invented.
-
-Some memories inspire fiction.
-
-Fiction rearranges memories.
-
-Eventually even the author may have trouble seeing the seam.
-
-That's part of the Easter egg.
-
-Skyler believes at one point that truth alone will save him.
-
-Thorne teaches him another philosophy:
-
-**Power is not controlling the evidence.
-Power is controlling what everyone believes the evidence means.**
-
-Skyler hates that idea.
-
-I hate that idea.
-
-But history gives it uncomfortable weight.
-
-Still, this story ultimately isn't about defeating some secret organization.
-
-It isn't about hackers.
-
-It isn't about the government.
-
-It isn't about a cartel.
-
-It isn't about Kaylee.
-
-It isn't about Thorne.
-
-It isn't even about SKYCOIN4444.
-
-Those are pieces.
-
-The actual story is about something considerably harder to recover once lost:
-
-**an ordinary life.**
-
-A father driving somewhere with his children.
-
-Someone coming home tired from work.
-
-Church on Sunday.
-
-Homework.
-
-A shelter volunteer shift.
-
-A stupid joke.
-
-A chess game.
-
-A little girl asking her dad a question while he is distracted by something he will eventually realize didn't matter.
-
-Before the glitch, I probably thought those moments were the boring parts.
-
-I know better now.
-
-They were the treasure.
-
-That's the first secret.
-
-Here is the second.
-
-Throughout everything I built, I kept returning to one word:
+I kept returning to one word:
 
 **Hope.**
 
@@ -612,133 +283,229 @@ HopeAI.
 
 SkyHope.
 
-Different chapters.
+Different parts of my life.
 
 Same word.
 
-Maybe that isn't an accident.
+Maybe that was never an accident.
 
-Maybe somebody who spends enough time around darkness begins naming things after the opposite of it.
+Maybe somebody who spends enough time around darkness starts naming things after the opposite of it.
 
-And maybe that tells you more about the author than the darkest chapter ever could.
+I wanted to prove with my life—not with a speech, not with an argument, not with one good day—that the opportunity I was given was worth giving.
 
-There are other Easter eggs.
+I still want to do something good with it.
 
-Numbers.
+Maybe even something great.
 
-Names.
+But if I never become anything the world calls great, then I hope being a father who loved his daughters, tried to help people, kept learning, and kept creating was enough.
 
-Repository titles.
+Luna. Summer. Alexis.
 
-Chess references.
+Morning light still gets me.
 
-Coins.
+There is something about the first light through a window that can bring back an entire life without asking permission.
 
-Ghosts.
+I think about waking up when you were little.
 
-Repeated sentences.
+I think about hearing a house become a family one room at a time.
 
-Dates.
+Somebody needed breakfast.
 
-Jokes that sound meaningless.
+Somebody needed shoes.
 
-Some are real clues.
+Somebody could not find something.
 
-Some are decoys.
+Somebody had a question before I was fully awake.
 
-One or two exist simply because I thought they were funny.
+There was rain against a window.
 
-And some were placed for exactly three people.
+Cartoons in another room.
 
-My daughters.
+A chess piece left where somebody forgot it.
 
-Luna.
+A laugh from down the hall.
 
-Summer.
+The ordinary noise of people you love existing close enough that you do not yet understand what silence will feel like later.
 
-Alexis.
+That is why **Zach Bryan's “Something in the Orange”** became attached to this part of my memory.
 
-Girls, if this book somehow outlives all the noise surrounding it, there is one thing I don't want hidden behind an Easter egg:
+I am not going to copy the lyrics. They belong to the songwriter.
 
-**I loved you.**
+What stays with me is the emotional landscape around the song: changing light, distance, love, memory, and the terrible way beauty can make you notice who is missing.
 
-Whatever version of me somebody tells you about someday, remember that human beings are larger than the worst story ever told about them.
+Orange morning light and orange evening light can feel like opposite ends of the same question.
 
-Including me.
+A day is beginning.
 
-I wasn't perfect.
+A day is ending.
 
-I wasn't a superhero.
+And somewhere between those two things, you are thinking about somebody you wish was standing beside you.
 
-I wasn't the villain either.
+For me, that feeling became connected to Kaylee and to my girls.
 
-I was your dad.
+Not because a song can explain us.
 
-I wanted to build something that might create opportunity for you and for people I would never meet.
+It cannot.
 
-I wanted my work to mean something.
+But sometimes music finds the emotion before you find the sentence.
 
-I wanted my mistakes to teach something.
+**“Feathered Indians”** connects to another part of the memory.
 
-I wanted my weird sense of humor to survive somewhere.
+Young love.
 
-And apparently I wanted to hide enough puzzles throughout everything that someday one of you would say:
+Love before you understand how fragile a future can be.
 
-*"Dad, what the hell does this even mean?"*
+Love that is funny, reckless, physical, stubborn, tender, imperfect, and alive.
 
-Perfect.
+It reminds me of being young enough to believe that if love felt powerful enough, it would automatically survive every mistake.
 
-That means you found it.
+Growing older taught me something harder.
 
-Maybe the greatest thing I ever built won't be a cryptocurrency.
+Love can be real and still need patience.
 
-Or artificial intelligence.
+Love can be real and still need humility.
 
-Or a software company.
+Love can be real and still be damaged.
+
+Love can be real even when two people do not make it to the ending they once imagined.
+
+Those songs do not tell our story.
+
+They only touch places in memory where our story already lives.
+
+The words I need you to hear are mine:
+
+**I love you.**
+
+**I wanted more time.**
+
+I wanted more mornings under the same roof.
+
+More birthdays.
+
+More school days.
+
+More boring evenings.
+
+More holidays.
+
+More arguments that became jokes later.
+
+More chess games.
+
+More questions from the kitchen.
+
+More waiting rooms.
+
+More grocery-store problems.
+
+More moments where nothing important seemed to be happening.
+
+More nights when the biggest problem in the world was what we were eating for dinner.
+
+I wanted to see who you became.
+
+I wanted to be there when life was beautiful.
+
+I wanted to be there when it was ugly.
+
+I wanted to be useful to you without controlling you.
+
+I wanted to be your dad when you were little, when you were teenagers, when you were adults, and when you no longer needed me in the same ways.
+
+I never wanted our family story to end at the point where things went wrong.
+
+If you find this book years from now, do not treat it like scripture.
+
+Do not feel obligated to defend me.
+
+Do not inherit every fear I had.
+
+Do not mistake my interpretation for your memory.
+
+Keep what helps you.
+
+Question what does not.
+
+Correct what I got wrong.
+
+Laugh at the parts that deserve it.
+
+Find the Easter eggs.
+
+Beat my chess puzzles.
+
+Make fun of my dramatic titles.
+
+Roll your eyes when I deserve it.
+
+Tell your own version of the family story.
+
+Your voices belong in it too.
+
+What I wanted to leave was not evidence for a courtroom.
+
+I wanted to leave **evidence for my children**.
+
+Evidence that your father was here.
+
+That he thought.
+
+Built.
+
+Failed.
+
+Loved.
+
+Got angry.
+
+Made jokes at terrible times.
+
+Played too much chess.
+
+Wrote code nobody asked for.
+
+Dreamed far beyond his resources.
+
+Tried to help homeless people.
+
+Tried to build companies.
+
+Tried to learn about a world bigger than his hometown.
+
+Tried to become better.
+
+Sometimes succeeded.
+
+Sometimes spectacularly did not.
+
+But kept trying.
+
+Maybe the greatest thing I ever built will not be a cryptocurrency.
+
+Or an AI.
+
+Or a company.
 
 Or a book.
 
-Maybe it will simply be evidence that even after life became complicated, I kept trying to create instead of destroy.
+Maybe it will simply be the evidence that when life became complicated, I kept trying to create instead of destroy.
 
-That's the version worth preserving.
+And if you ever wonder what I wanted all this work to become, the answer was never just money or fame.
 
-Toward the end of this story, Skyler finally understands something he spent years resisting:
+I wanted it to become **time with you, opportunities for you, education, security, choices, laughter, ridiculous family jokes, help when you needed it, stories worth retelling, and a future in which you always knew your dad loved you.**
 
-You don't need to solve every mystery to survive it.
+If somebody someday gives you ten different versions of who I was, start before the glitch.
 
-You don't need every person to believe you.
+Before the companies.
 
-You don't control every story somebody tells about you.
+Before the code.
 
-You control what you build next.
+Before the courtrooms.
 
-That's where purpose begins.
+Before the fear.
 
-So when you encounter contradictions in this book, don't automatically correct them.
-
-When something appears twice, look closer.
-
-When a number keeps returning, remember it.
-
-When a joke seems strangely specific, perhaps it is.
-
-When the ghost speaks, listen.
-
-And whenever the story becomes so complicated that you can no longer distinguish heroes from villains, go backward.
-
-Back before the glitch.
-
-Back before the money.
-
-Back before the algorithms.
-
-Back before SKYCOIN4444.
-
-Back before the books.
-
-Back before anyone cared who Skyler Blue Spillers was.
-
-You'll find a kid.
+You will find a kid.
 
 Then a worker.
 
@@ -746,297 +513,21 @@ Then a student.
 
 Then a father.
 
-Then somebody helping at a homeless shelter.
+Then somebody volunteering at a homeless shelter.
 
-Then somebody sitting behind a computer late at night believing he could build something useful.
+Then somebody sitting behind a computer late at night believing he might still build something useful.
 
-That's him.
+That is me.
 
 Everything else came afterward.
 
-And there's one final Easter egg.
+And there is one thing I do not want hidden in an Easter egg:
 
-It's hidden in almost everything I ever tried to make:
+**Luna, Summer, Alexis—I love you.**
 
-**4444.**
+**Kaylee—you were my first love, and I will always be grateful that our story gave me our girls.**
 
-I'll let you decide what that one means.
-
-Some mysteries deserve to survive their author.They were the beginning of a movement.
-At least that is how Skyler came to understand it.
-Looking back, the solution should have been simple: keep quiet, move on, date somebody new after breaking up with his fiancée, and rebuild his life.
-But nothing stayed simple for long.
-For a while, Skyler tried to do exactly that. He dated again. At one point, two women were talking about moving in with him. In another moment of wounded pride and reckless humor, he thought it would be funny to date two highly attractive exotic dancers.
-He was young, angry, hurt, and trying to prove that losing one relationship had not destroyed him.
-Instead, he came to believe that it made everything worse.
-That was the beginning of the end—or at least the point where the ending began to become visible.
-It was no longer about relationships, strange job offers, threats, or money.
-In Skyler's mind, it became something larger.
-A plan.
-He described it as an everything-they-wanted card: a way to take his reputation, his freedom, his family, his future, and his voice in one move.
-To embarrass him.
-Silence him.
-Remove his influence over his children's lives.
-Reduce him, as he would later describe it, to someone who had been smoked like a cigarette.
-Used up.
-Erased.
-Gone.
-This came after what Skyler believed had been an increasingly bizarre series of traps involving criminals, authority figures, technology, and people being moved around his life like pawns.
-More than once, he felt like a ghost in his own town.
-That is why the part before the glitch matters so much.
-Because life had once been ordinary.
-Skyler volunteered at a homeless shelter.
-He went to school.
-He worked.
-He attended church.
-He started a family.
-He was a father.
-There were bills, arguments, responsibilities, routines, holidays, children, jobs, homework, and ordinary problems.
-Nothing about it seemed historic at the time.
-Then the patterns began.
-Skyler would later describe that period as if he had unknowingly been walking toward his own destruction since around 2020.
-Whether that belief was accurate, exaggerated by fear, or somewhere between the two becomes one of the questions of the novel.
-He began to believe there was a kind of hidden society operating behind normal life—not necessarily one organization, but a system capable of influencing what people saw and believed.
-The feed.
-The posts.
-The advertisements.
-The songs.
-The messages.
-The timing.
-In his darkest moments, it felt to him like psychological warfare: a modern form of mind game built from algorithms, repetition, coincidence, fear, and suggestion.
-Once you begin believing every message may have another meaning, almost anything can become part of the message.
-That is where the glitch truly begins.
-Skyler even came to think differently about judges, courts, and the few years he had been able to spend with his children.
-At times, he described those years almost as borrowed time.
-A judge, in his mind, had given him five more years with his children. This is what they say he walked for murder by the grace of God because he was a good dad in covid. Now after he broke up with his fiancé he was the damn devil but they never had a straight story. 
-Whether anybody else would describe it that way did not matter.
-That was how Skyler remembered it almost.
-And despite everything else he questioned, he still carried a strange respect for the court itself.
-To him, disrespecting a judge felt almost like taking God's name in vain.
-Then came the offers.
-"I'm not interested in any offers," Skyler said.
-The answer was always some variation of the same warning:
-"Follow along, or you're not going to like what happens next."
-At one point, Skyler believed he had received help from a man he associated with federal law enforcement—a figure named Dan in the fictionalized version of the story.
-This was before Skyler fully understood what he would later call the glitch.
-Before every coincidence had acquired a second meaning.
-Before every phone notification could become a threat.
-Before every conversation seemed to contain hidden instructions.
-In the novel, that fear takes form through a character named Thorne.
-"Hear me out," Thorne said.
-Skyler's phone had become almost unbearable by then. Notifications, voices, messages, and digital coincidences seemed to follow him everywhere—even into the shower.
-By that point, the accusations and implied threats had become grotesque.
-One minute he was a coder.
-The next, in his mind, he was being cast as a criminal, trafficker, conspirator, hacker, or murderer depending on whatever story seemed useful.
-Thorne continued.
-"You're a brilliant coder. The Truth Protocol is impressive. I'll give you that. But you're also naive."
-Skyler stared at him.
-"You think releasing information will destroy the Syndicate," Thorne said. "You're wrong. The machine keeps moving without you. If a wheel breaks, it gets replaced. We have lawyers. Resources. Friends in high places."
-Skyler almost laughed.
-So did he, at least once.
-Or he believed he had.
-He had spent much of his life feeling protected by people, community, family, faith, work, and sheer stubbornness.
-He had never been particularly afraid of a fight.
-A stubborn Taurus, he would joke.
-For a while, Skyler thought that made the conflict almost symmetrical.
-They were hunting him.
-He was hunting them.
-They were studying him.
-He was studying them.
-It became a game of traps and counter-traps.
-When he believed he had figured out one mechanism, another appeared.
-Whenever he tried to follow the pattern long enough to understand it, he suspected the people behind it already knew that was what he would do.
-That was the real trap.
-"You still don't understand," Thorne told him. "We can spin this. Suppress it. Discredit you. Put you in prison for the rest of your life if that's what it takes. By next week, nobody will even remember what you were trying to expose."
-Then came the threat Skyler feared most.
-"Your children will grow up without you."
-That landed differently.
-Skyler could tolerate threats against his pride.
-His reputation.
-His money.
-His career.
-Even his freedom.
-But his children were different.
-"Maybe," Skyler said. "But the truth will still exist."
-Thorne smiled.
-"The truth is whatever people can be convinced it is. That's the lesson you still haven't learned."
-He leaned closer.
-"Power isn't having evidence."
-"Power is controlling the narrative."
-Skyler shook his head.
-"I don't believe that."
-At first, he truly didn't.
-Then came the money.
-In Skyler's version of events, there were offers so absurd that they began to feel less like employment and more like recruitment.
-Imagine being offered millions of dollars through people you do not trust.
-Imagine believing the offer is not really about the work.
-Imagine believing it is designed to make you leave the people you love, compromise yourself, or become part of something you cannot leave later.
-In the fictionalized version, the number becomes ten million dollars.
-The offer appears around work.
-Around Kaylee.
-Around the period when Skyler is trying to move on.
-Around money.
-Around drugs.
-Around technology.
-Around the suggestion that his technical ability could be useful on darker parts of the internet.
-Skyler becomes convinced that the real offer is not a job at all.
-It is membership.
-"Then you're a fool," Thorne told him. "But you're a useful fool. That's why I'm here."
-Skyler said nothing.
-"I'm offering you a choice. Join us. Use your talents for us. We'll pay you more money than you can imagine. We'll protect you. We'll give you influence."
-"And if I refuse?" Skyler asked.
-Thorne barely hesitated.
-"Then we erase you."
-The words were simple.
-That made them worse.
-"We destroy your reputation. We take your freedom. We make everyone you've ever cared about afraid to stand beside you. Eventually nobody remembers the person you were before all of this."
-Skyler's mind raced.
-He felt trapped.
-Eventually he began to suspect law enforcement, criminals, private actors, and anonymous technology users were all somehow overlapping.
-At his most frightened, he imagined every side hacking every other side.
-He thought about public corruption.
-Surveillance.
-Retaliation.
-Who was watching whom?
-Who actually controlled anything?
-And who merely wanted him to believe they did?
-One of the strangest moments involved a tarot reader.
-She seemed to know details about his family.
-Then she asked him whether he had ever received a nude photograph.
-To anybody else, it may have been an odd question.
-To Skyler, already living inside a growing pattern, it felt like another piece clicking into place.
-He broke things off with Kaylee almost immediately.
-The relationship had already become strained.
-Her family situation had changed.
-There was a new stepfather figure in the picture—a successful man connected to the oil business.
-Skyler could admit the man was likable.
-He could admit the man had done good things.
-But Skyler disliked some of the sexual jokes and what he believed were attempts to buy marijuana from him.
-What should have been an uncomfortable family disagreement became, in Skyler's mind, part of something much larger.
-They fought for roughly two years over the direction of the family and the children.
-Skyler wanted church to remain part of the children's lives.
-Other people wanted different weekends, different schedules, different priorities.
-Ordinary family disagreements became loaded with meaning.
-And Skyler was changing too.
-He admits that.
-When he got a better technology job, his ego grew.
-He became more confident.
-More impulsive.
-More reactive.
-He snapped at times.
-For roughly two months, he went on lunch dates with another woman before eventually pursuing someone else.
-Relationships at work became messy.
-People chose sides.
-Women he once thought liked him appeared to turn against him.
-But none of that started in a vacuum.
-Skyler carried old wounds into every new relationship.
-His first serious love had cheated on him.
-At one point, she asked for an open relationship.
-Skyler felt as though everybody around her had been placed above him.
-That created a pattern inside him long before he ever started seeing patterns on his phone.
-Fear of replacement.
-Fear of humiliation.
-Fear of becoming optional.
-Fear of losing the people he loved while still being forced to watch their lives continue without him.
-That fear eventually focused on his children.
-He imagined receiving messages telling him that his child would now be going to church with her mother instead of him.
-He imagined the mother older—thirty-eight by the time he was finally released from prison in one imagined future.
-That number stayed with him.
-It represented everything he feared losing.
-Years.
-Birthdays.
-School.
-Church.
-Childhood.
-A relationship with his own children that could never simply be recreated later.
-The legal disputes intensified.
-Civil court.
-Threats of criminal charges.
-Talk of twenty years.
-Then life.
-Then decades beyond that.
-In Skyler's mind, the punishment always seemed to grow.
-He complained to a man's employer because he believed the man's behavior raised questions about safety and integrity.
-He believed he had been asked to participate in something involving drugs.
-Whether Skyler understood every piece correctly is deliberately left unresolved.
-What matters is what happened inside him afterward.
-He felt the retaliation spread into every part of his life.
-Family.
-Work.
-Friends.
-Church.
-Community.
-By then Skyler no longer believed he was fighting one person.
-He believed he was fighting systems.
-And that realization frightened him far more than any individual enemy ever could.
-A person can be confronted.
-A person can be sued.
-A person can be argued with.
-But how do you fight a system if you cannot even determine where the system begins?
-That is why there are two kinds of fear in the modern world.
-One arrives with a broken window, a voice in the hallway, or a threat that can be pointed to.
-The other arrives as a pattern:
-A recommendation.
-A coincidence.
-A message arriving at exactly the wrong moment.
-A stranger repeating a sentence you remember saying only once.
-A song that feels too relevant.
-An advertisement that seems almost personal.
-A notification that appears seconds after you thought about the subject.
-The first kind of fear makes you ask:
-Who is outside my door?
-The second makes you ask:
-Who is inside my head?
-This novel lives in the space between those two fears.
-It is not a report accusing real governments, public figures, law-enforcement agencies, courts, businesses, or private individuals.
-It is an original work of fiction about a man whose life becomes a battlefield of competing stories.
-Some events in the story are engineered.
-Some are criminal.
-Some are ordinary conflicts that become larger through fear and technology.
-Some are misunderstandings.
-Some are coincidences.
-Some may be interpretations born from exhaustion, grief, trauma, anger, and isolation.
-Others may not be.
-That distinction matters.
-A person can be genuinely threatened and still misunderstand who is threatening him.
-A system can fail catastrophically without being controlled by one hidden hand.
-Someone can behave corruptly without every person around them being part of the same conspiracy.
-Evidence can be real while the story constructed around that evidence is wrong.
-And sometimes the opposite is true:
-What everyone dismissed as coincidence may have contained something real.
-Skyler Blue Spillers begins this story believing survival requires him to understand everything.
-Every person.
-Every message.
-Every betrayal.
-Every institution.
-Every coincidence.
-Every move on the board.
-He treats life like chess.
-If he can see enough moves ahead, he believes he can escape.
-But life is not chess.
-There is no guarantee that both players are following the same rules.
-By the end, Skyler learns something harder.
-He may never understand every part of what happened to him.
-He may never know which patterns were real, which were manufactured, and which existed only because a frightened mind desperately wanted the chaos to make sense.
-But understanding everything is not the same thing as surviving.
-And survival is not the end of the story.
-It is only the beginning.
-What comes after survival is purpose.
-
-
-— **Skyler Blue Spillers**
-Founder • Father • Builder • Author
-
-*Dream Bigger. Build Smarter. Help More People.*
-
-**Technology With Purpose. Innovation With Hope.**
-
-*The future is built one line of code at a time.*
-
-And if you're reading this because you're trying to figure out who I really was—
-
-**start before the glitch.**
-
+Whatever else this book becomes, let that be the part nobody has to decode.
 
 ---
 
@@ -6471,6 +5962,21 @@ Skyler smiled.
 
 “I will.”
 
+Skyler reached into his pocket before the moment could become another explanation.
+
+For Luna, a small black chess knight. For Summer, a blue card marked with rain. For Alexis, a seashell.
+
+“I believe in the way you think,” he told Luna. “I believe storms do not get to define you,” he told Summer. “I believe the small things you notice matter,” he told Alexis.
+
+Then he looked at all three girls.
+
+“I was proud of you before you proved anything. Before grades, trophies, jobs, money, applause, or anybody else's opinion. You can succeed, fail, agree with me, disagree with me, and become people I never could have predicted. I love you because you are my daughters. I believe in you because you are becoming yourselves.”
+
+**Proud before proof.**
+
+It was a better rule than any system he had ever built.
+
+
 Luna looked at the violin case. “Are you going to jail?”
 
 “I don’t think so.”
@@ -6769,6 +6275,23 @@ The blank door now contained a small yellow square.
 
 “No,” Luna replied. “It’s what you put near a door so people can see.”
 
+Luna's chess knight hung from her bag. Summer had added rain to the drawing. Alexis carried the seashell in her pocket.
+
+In a harmless demo project at the center, Skyler had hidden four lines for them:
+
+`knight = Luna`
+
+`rain = Summer`
+
+`shell = Alexis`
+
+`PROUD_BEFORE_PROOF = true`
+
+There was one more family joke in the comments: the self-moving Christmas chessboard he had once imagined paying roughly thirteen hundred dollars for after two or three days digging plants. He could picture a six-year-old watching the pieces glide like movie magic, becoming curious enough to learn, maybe pulling her sisters into the game. He hoped Kaylee would help keep the board safe long enough for Alexis to inherit her turn.
+
+The board was never the real inheritance. The table was. The invitation was. The message was simple: **sit down, make a move, and know Dad is proud of you before the result.**
+
+
 Skyler looked at the drawing.
 
 For years, he had believed the world was divided between those who watched and those who were watched, those who controlled stories and those who carried them.
@@ -6802,3 +6325,10 @@ Survival had created the warrior.
 Purpose had decided what the warrior became.
 
 And the story, at last, no longer needed him to carry it alone.
+
+
+## Final Family Legacy Canon
+
+The final family layer uses recurring Easter eggs that can survive across future edits: Luna/chess knight, Summer/rain, Alexis/seashell, orange morning light for all three, and `PROUD_BEFORE_PROOF = true`. The Christmas self-moving chessboard memory represents Skyler working extra to make learning feel magical and create a shared family table, not pressure to produce a chess champion.
+
+Editors should preserve the message that Skyler loves, believes in, and is proud of his daughters regardless of achievement, agreement, mistakes, or public opinion. These family signals are never evidence of surveillance, prophecy, or hidden external communication.
