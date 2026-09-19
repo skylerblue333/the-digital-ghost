@@ -19,117 +19,283 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ---
 
-## Dedication
+## FOR MY FAMILY
 
-For **Kaylee**, because before this story became complicated, we were young, we loved each other, and we built a family. Thank you for the years we shared and for the three girls who changed my life.
+Before the story begins—before the strange parts, the painful parts, the victories, the mistakes, the code, the chess games, the arguments, the questions, and everything else contained in these pages—there is something more important than all of it.
 
-For **Luna Avigail, Alexis Isabella-Jane, and Summer Skye**, because every page after this one matters less than the fact that I got to be your dad.
+My family.
 
-And with gratitude to the **judge whose decision, as I understood it, gave me more time with my children**.
+Especially my daughters.
 
-This book contains fear, ambition, mistakes, technology, courtrooms, strange coincidences, grief, humor, love, and questions that do not always resolve cleanly.
+**Luna Avigail.**
+**Alexis Isabella-Jane.**
+**Summer Skye.**
 
-This page does.
+You three are more important than anything I ever built.
 
-**I loved my family. I was grateful for the ordinary years. I wanted more of them.**
+More important than SKYCOIN4444.
 
-Before this book becomes dark, remember that there was light first. There was faith, falling in love, a home, babies, laughter, plans, and years when the future still felt ordinary. The loss only matters because the love was real.
+More important than a company.
 
-I did not understand the value of every ordinary day while I was living it. I wish I had taken more days off, protected more family time, taken more vacations, worried less about the next job or project, and understood sooner that a quiet evening together could be worth more than something impressive I built.
+More important than software, money, accomplishments, titles, books, chess ratings, websites, repositories, or whether anybody remembers my name.
 
-That is why the family comes first in this book.
+Being your dad changed the meaning of my life.
 
-Not as an appendix.
+There were times when life became complicated enough that I did not always know how to explain what I was going through. There were moments I handled well and moments I would handle differently if life offered rewrites. There were days when I felt certain and days when I was completely lost.
 
-Not as an afterthought.
+But one thing was never complicated:
 
-At the front, where nobody has to search for it.
+**I loved my children.**
 
-## Before the Story: Family Comes First
+That belongs at the beginning of my story.
 
-The most valuable parts of my life did not look important while they were happening.
+Not at the end.
 
-They looked like toys on the floor.
+---
 
-Laundry that never ended.
+## A Note to My Daughters Before You Read This Book
 
-A child calling from another room.
+Girls,
 
-A rushed breakfast.
+If you are reading this when you are older, there are a few things I want you to know before you read another page.
 
-A drive somewhere we had driven a hundred times.
+This book contains my memories, my perspective, my emotions, my mistakes, my humor, my fears, and the way certain moments felt to me while I was living through them.
 
-A church morning.
+It is not a set of instructions for how you should see the world.
 
-A school form.
+You are allowed to disagree with your dad.
 
-A birthday.
+Actually, I hope you learn enough to disagree with me sometimes.
 
-A tired argument followed by an apology.
+Think for yourselves.
 
-Coming home from work and hearing the house before opening the door.
+Ask questions.
 
-I used to measure life by the large things: the job, the degree, the company, the code, the book, the next project, the thing I could build that might prove I had done something meaningful.
+Read.
 
-Age has a way of correcting your math.
+Travel if you can.
 
-The ordinary days were not what happened between the important moments.
+Learn from people who are not like you.
 
-**The ordinary days were the important moments.**
+Listen before deciding.
 
-So before the reader meets the man in the thriller—before the phone, the songs, the feeds, the theories, the courtrooms, the Network, the Fourth Door, and everything the character Skyler tries to decode—I want my family to meet the man who existed before all of that.
+Do not automatically believe something because somebody sounds confident.
 
-A young man trying to work.
+And definitely do not believe something simply because your dad wrote it in a book.
 
-A student.
+Find evidence.
 
-A volunteer.
+Look for context.
 
-A boyfriend who became a fiancé.
+Ask what is known, what is assumed, and what is still uncertain.
 
-A father learning in real time.
+Then decide what you believe.
 
-A person who could be stubborn, funny, ambitious, frightened, loving, wrong, hopeful, exhausted, and still trying the next morning.
+I want you to inherit my curiosity without inheriting every one of my conclusions.
 
-Not a hero.
+Take the best parts of me and improve them.
 
-Not a villain.
+Leave the worst parts behind.
 
-A person.
+That would make me proud.
 
-And, to three girls, simply:
-
-**Dad.**
-
-### Read This No Matter What the Future Looks Like
-
-Girls, this part is written to survive context.
-
-If you read it while we are close, it is true.
-
-If you read it after years of distance, it is still true.
-
-If you are angry with me, disagree with me, or remember parts of our family differently, it is still true.
-
-If you grow into adults whose lives look nothing like the future I once pictured for you, it is still true.
+And there is something else I want written plainly because family stories become complicated when enough adults tell them.
 
 You never owe me agreement in exchange for love.
 
 You never have to defend my reputation.
 
-You never have to inherit my fears.
+You never have to reject your mother to prove you love your father.
 
-You never have to choose between loving your mother and loving your father.
+You never have to reject your father to prove you love your mother.
 
-And if adults ever put you in the middle—if somebody showed you a post, repeated a rumor, asked you to take a side, or made you feel that loving one parent betrayed the other—that was never your burden to carry. Children are not evidence. Children are not leverage. Children are not pawns.
+If adults ever put you in the middle of conflict, showed you messages, repeated rumors, asked you to choose sides, or made you feel responsible for fixing a grown-up problem, that burden never belonged to you.
 
-Take what is useful from me. Correct what I got wrong. Improve what I built. Laugh at the ridiculous parts. Tell your own version of the family story.
+**Children are not evidence. Children are not leverage. Children are not pawns.**
 
-The only inheritance I want to place on your shoulders is this:
+Your memories belong to you.
 
-**You were loved before you accomplished anything, and you remain worthy of love when life is messy.**
+Your feelings belong to you.
 
-Everything else belongs to you.
+Your lives belong to you.
+
+Tell your own version.
+
+I will still love you.
+
+---
+
+## What I Hope You Remember About Your Dad
+
+I hope you remember that I tried.
+
+Not that I was perfect.
+
+I was not.
+
+I hope you remember me laughing with you.
+
+Being ridiculous.
+
+Making jokes that probably were not as funny as I thought they were.
+
+Talking about technology nobody asked about.
+
+Playing chess.
+
+Building things.
+
+Coming up with giant ideas when a normal-sized idea probably would have worked just fine.
+
+Trying to turn computers into something useful.
+
+Trying to make something that might outlive me.
+
+Trying to create opportunities I did not always have myself.
+
+I hope you remember that underneath all that ambition was a very simple wish:
+
+**I wanted my girls to have a good life.**
+
+I wanted you to grow up knowing somebody believed you could become anything.
+
+You do not have to become programmers.
+
+You do not have to become entrepreneurs.
+
+You do not have to care about SKYCOIN4444.
+
+You do not have to continue any company I started.
+
+You do not have to like chess.
+
+Although I reserve the right to be slightly disappointed about the chess part.
+
+You can become artists.
+
+Teachers.
+
+Doctors.
+
+Mechanics.
+
+Scientists.
+
+Mothers.
+
+Business owners.
+
+Musicians.
+
+Farmers.
+
+Engineers.
+
+Writers.
+
+Or something that has not even been invented yet.
+
+Your life belongs to you.
+
+The greatest thing you could do with anything I leave behind is not preserve it exactly.
+
+It is to build a life that feels like yours.
+
+---
+
+## The Family Rules I Would Like to Leave Behind
+
+If there is anything useful buried inside everything I have learned, maybe it is this:
+
+**Love people while they are here.**
+
+Say it.
+
+Do not assume they know.
+
+**Call your family.**
+
+Even when you are busy.
+
+Especially when you are busy.
+
+**Do not confuse love with endurance.**
+
+Never stay somewhere you are constantly being mistreated simply because starting over scares you.
+
+Starting over hurts.
+
+Sometimes staying hurts more.
+
+**Learn how money works.**
+
+Save some.
+
+Invest some.
+
+Spend some making memories.
+
+Help somebody when you can.
+
+Money is useful.
+
+It is not a measurement of human value.
+
+**Learn something difficult.**
+
+It teaches you that frustration is not the same thing as failure.
+
+**Be careful who you trust without becoming incapable of trust.**
+
+Those are two very different things.
+
+**Do not let heartbreak convince you that love was a mistake.**
+
+Something can end and still have been real.
+
+**Apologize when you are wrong.**
+
+A real apology does not spend the next sentence proving why the other person deserved what happened.
+
+**Forgive yourself for being young.**
+
+Everybody learns life by living it.
+
+**Take pictures.**
+
+One day the ordinary pictures become the important ones.
+
+**Keep something from childhood.**
+
+A drawing.
+
+A toy.
+
+A letter.
+
+A cheap bracelet.
+
+A chess piece.
+
+A compass.
+
+A stupid joke.
+
+Anything.
+
+You will understand later why small things become valuable.
+
+**Do not confuse confidence with cruelty.**
+
+The strongest person in a room does not need to humiliate the weakest.
+
+**Ask for help before pride turns a hard season into a permanent one.**
+
+And never believe your worth depends on whether another person chooses you.
+
+You were valuable before anybody approved of you.
+
+You remain valuable after rejection, mistakes, failure, embarrassment, heartbreak, or starting over.
 
 ---
 
@@ -137,61 +303,123 @@ Everything else belongs to you.
 
 Kaylee,
 
-We started young enough to believe there would always be more time. or I did.
+There is no perfect way to write about a chapter of life that became complicated.
 
-First there was an apartment. Then there was a house we bought and tried to make ours. I miss your mom too. I love y'all forever ♾️ Then there were children, schedules, bills, work, school, church mornings, birthdays, holidays, tired nights, private jokes, disagreements, apologies, and all the ordinary machinery of building a family before either of us had fully figured out who we were.
+So I will not pretend there is.
 
-For a long time, I thought the biggest moments were the ones worth remembering.
+We were young.
 
-I was wrong.
+We loved each other.
 
-I remember the smaller ones now.
+We built a life while still learning who we were.
 
-The girls laughing from another room.
+Whatever happened later does not erase what came before it.
+
+It does not erase becoming parents.
+
+It does not erase the apartment.
+
+The house we tried to make ours.
+
+Ordinary mornings.
+
+Inside jokes.
+
+Arguments that probably seem ridiculous now.
+
+Bills on the counter.
+
+Church mornings.
+
+Birthdays.
+
+Christmases.
+
+Driving somewhere tired.
 
 Sitting at the same table.
 
-Driving somewhere together.
+Planning a future like young people do—confident that there will always be more time.
 
-Coming home tired.
+For a long time I thought the biggest moments would be the ones I remembered.
 
-The kind of night where nothing happened that would ever make a headline.
+I was wrong.
+
+I remember the smaller ones.
+
+Hearing the girls in another room.
+
+Coming home tired and knowing I belonged somewhere.
+
+The kind of evening where nothing happened that would ever make a headline.
 
 Those are the memories that became precious.
 
-There was a version of the future I once pictured for us: older, calmer, sitting at a house with a wraparound porch, watching our daughters come and go as adults and laughing at how young we had been when everything began.
+There was a future I pictured for us.
+
+Older.
+
+Calmer.
+
+A house with a wraparound porch.
+
+Gray hair we would pretend not to notice.
+
+Our daughters arriving with adult lives of their own.
+
+Somebody bringing food.
+
+Somebody arguing about where to sit.
+
+Grandchildren making too much noise.
+
+A completely ordinary future.
 
 Life did not give us that exact ending.
 
 I do not want that to make the beginning meaningless.
 
-You were my first love and, for an important part of my life, my best friend. You were there during years that shaped me. We built something real together, even though it did not last in the form we once imagined.
+You were my first real love and, for an important part of my life, my best friend.
+
+We built something real even though it did not last in the form we once imagined.
 
 I made mistakes.
 
-There were times when fear, pride, anger, loneliness, or my need to explain myself became louder than patience. There were times I should have listened better. There were things I would handle differently if life allowed rewrites as easily as software does.
+There were times fear, pride, anger, loneliness, obsession, or my need to explain myself became louder than patience.
+
+There were things I should have handled differently.
+
+There were times I should have listened better.
+
+There were moments when being right mattered to me more than being kind.
 
 I am sorry for the hurt I caused.
 
-I also refuse to use this book to flatten you into a character whose only purpose is to make me look better.
+I also do not want this book to flatten you into a character whose only purpose is to make me look better.
 
 You are not the villain of my story.
 
 I am not the hero of yours.
 
-I'll write our full love story one day truthfully.
-
 We were two people who loved each other, hurt each other, changed, and became the parents of three girls who deserve a history larger than anybody's bitterness.
 
-Whatever happened between us later, I will always be grateful for the part of our life that became a family.
+Whatever happened later, I will always be grateful for the part of our lives that became a family.
 
 Our daughters should never have to choose which parent they are allowed to love.
 
 They should never feel responsible for adult pain.
 
-They should never have to defend me in order to deserve my love, and they should never have to reject you in order to keep it.
+They should never have to defend me in order to deserve my love.
 
-I hope they grow up free enough to know both of us as human beings.
+They should never have to reject you in order to keep it.
+
+I hope the sharp edges of the past become smaller with time.
+
+I hope the girls grow up knowing they were wanted.
+
+I hope they know they were loved.
+
+I hope they know their childhood belongs to them—not to an argument, a court file, a social-media story, or anybody else's version of what happened.
 
 Thank you for Luna.
 
@@ -199,7 +427,7 @@ Thank you for Alexis.
 
 Thank you for Summer.
 
-Thank you for the ordinary years I did not understand were extraordinary until they were memories.
+Thank you for the ordinary years I did not understand were extraordinary until they became memories.
 
 I wish the best parts had lasted longer.
 
@@ -213,18 +441,23 @@ I am grateful they happened at all.
 
 Luna,
 
-You are the **knight** in the family for a Easter egg.
-also with major queen energy.
+Your name always sounded like something from a story.
 
-There is a reason I chose those pieces
+Luna.
 
-A knight reaches places no other chess piece can reach because it refuses to move the way everything around it moves.
+The moon.
 
-you are also a queen that can move and accomplish what other can not.
+A light that does not disappear just because the world gets dark.
 
-That does not mean I want you to be difficult just for the sake of being different.
+That is one reason the **knight** belongs to you in the family Easter eggs.
 
-It means I want you to know that your life does not have to follow anybody else's geometry.
+You have some queen energy too, obviously.
+
+The knight matters because it reaches places no other piece reaches by refusing to move the way every other piece moves.
+
+That does not mean I want you to be different just for the sake of being difficult.
+
+It means I want you to understand that your life does not have to follow anybody else's geometry.
 
 Not mine.
 
@@ -244,25 +477,29 @@ You are allowed to lose a game without believing you are a loser.
 
 You are allowed to win without becoming cruel.
 
-I wanted to teach you chess because I loved the idea of sharing something with you. That ridiculous self-moving Christmas chessboard I will buy 2026 was never really about producing a chess champion.
+I wanted to teach you chess because I loved the idea of sharing something with you.
 
-I imagined you watching a knight glide across the board by itself and thinking, for one second, *that's magic.*
+That ridiculous self-moving chessboard I imagined buying was never really about producing a champion.
 
-Maybe you would get curious.
+I pictured you watching a knight glide across the board by itself and thinking, for one second:
 
-Maybe you would sit down for one game.
+*That is magic.*
+
+Maybe curiosity would become one game.
+
+Maybe one game would become an hour with Dad.
 
 Maybe your sisters would wander over.
 
-Maybe you would beat me eventually and act like it was easy.
+Maybe you would beat me someday and pretend it was easy.
 
-Maybe you would hate chess after two games and spend the rest of your life making fun of Dad for buying an absurd robot board.
+Maybe you would hate chess after two games and spend the rest of your life making fun of me for buying an absurd robot board.
 
 Any of those endings would have been fine.
 
-**The board was never the point. The time together was and gift was.**
+**The board was never the point. The time together was.**
 
-There will be moments in your life when people sound certain about you.
+There will be moments when people sound certain about you.
 
 They will tell you what kind of person you are.
 
@@ -274,7 +511,7 @@ What your mistakes mean.
 
 Listen carefully.
 
-Then remember that other people do not get the final move in your identity.
+Then remember other people do not get the final move in your identity.
 
 Be clever, but do not worship cleverness.
 
@@ -288,7 +525,7 @@ Ask good questions.
 
 Read things written by people who disagree with you.
 
-And if the board becomes confusing, do not panic because you cannot see twenty moves ahead.
+And when the board becomes confusing, do not panic because you cannot see twenty moves ahead.
 
 Sometimes one honest move is enough.
 
@@ -324,9 +561,13 @@ Not because I expect you always to know where you are going.
 
 Nobody does.
 
-A compass matters precisely because people get lost.
+A compass matters because people get lost.
 
-It can shake when your hand moves. It can spin when the ground beneath you is unsteady. But when you stop forcing it and give it a moment, the needle finds direction again.
+It shakes when the hand holding it moves.
+
+It can spin when the ground beneath you is unsteady.
+
+But if you stop forcing it and give it a moment, the needle finds direction again.
 
 That is what I hope for you.
 
@@ -334,7 +575,11 @@ Not a life where you never become confused.
 
 A life where you learn how to find yourself again.
 
-There will be people who tell you which direction you should go because it benefits them. There will be crowds moving one way simply because everybody else is moving. There will be moments when love, fear, money, embarrassment, ambition, or loneliness make the wrong road look easier.
+There will be people who tell you which direction you should go because it benefits them.
+
+There will be crowds moving one way simply because everybody else is moving.
+
+There will be moments when love, fear, money, embarrassment, ambition, loneliness, or pressure make the wrong road look easier.
 
 When that happens, ask yourself:
 
@@ -346,25 +591,47 @@ When that happens, ask yourself:
 
 *Will I respect myself after I make it?*
 
+You get the final vote on who Alexis becomes.
+
 You do not need to be the loudest person in a room.
 
 You do not need a giant audience.
 
 You do not need to become famous.
 
-You do not need to collect accomplishments until you are exhausted just to prove that your life mattered.
+You do not need to collect accomplishments until you are exhausted just to prove your life mattered.
 
-Notice people.
+Strength is not pretending nothing hurts.
 
-Call somebody back.
+Strength is being affected and still deciding what happens next.
 
-Sit beside somebody who is having a bad day.
+Cry when something hurts.
 
-Keep photographs of ordinary mornings.
+Ask for help when you need it.
 
-Write down the funny things your sisters say.
+Admit when you are scared.
 
-Protect your boundaries without losing your kindness.
+Have boundaries.
+
+Say no.
+
+Walk away from people who repeatedly disrespect you.
+
+And do not make yourself smaller just because somebody else is uncomfortable with your confidence.
+
+At the same time, stay kind.
+
+The strongest person in a room does not need to humiliate anybody.
+
+I hope you notice people.
+
+The kid sitting alone.
+
+The person everybody talks over.
+
+The person struggling quietly.
+
+I hope people feel safe around you because your confidence does not require their fear.
 
 And if life changes the destination, change it.
 
@@ -384,7 +651,19 @@ You can ask for help.
 
 You can choose again.
 
-And no matter how far you travel, I hope you always know there is a place in this family story where you were wanted, loved, and never required to earn your place.
+You can recalculate.
+
+And no matter how far you travel, there is a place in this family story where you were wanted, loved, and never required to earn your place.
+
+I was proud of you before a résumé.
+
+Before achievements.
+
+Before awards.
+
+Before anybody knew what you might become.
+
+That was already enough.
 
 I love you, Alexis.
 
@@ -400,11 +679,21 @@ Dad
 
 Summer,
 
-You are the **rain**.
+Your name has always sounded like happiness.
 
-Rain appears throughout this story because I needed one symbol that refused to become a threat.
+Summer Skye.
 
-When a person is afraid, everything can start looking like a message.
+Sunlight.
+
+Open space.
+
+A day that feels bigger than whatever problem happened yesterday.
+
+That is why the **rain** belongs to you in this book.
+
+Rain appears throughout the story because I needed one symbol that refused to become a threat.
+
+When a person becomes afraid, everything can start looking like a message.
 
 A song.
 
@@ -424,9 +713,9 @@ Sometimes a gray day is not an omen.
 
 Sometimes a storm passes.
 
-And sometimes the same rain that ruins an afternoon is what lets something grow afterward.
+And sometimes the same rain that ruins one afternoon grows something beautiful later.
 
-I want you to protect the part of yourself that can still enjoy the world without needing to decode it.
+I want you to protect the part of yourself that can enjoy the world without needing to decode it.
 
 Jump in puddles.
 
@@ -436,11 +725,53 @@ Laugh loudly.
 
 Take ridiculous pictures with your sisters.
 
-Play music too loud occasionally.
+Play music too loud once in a while.
 
 Watch sunsets even though millions of people already have.
 
-Let ordinary beauty be enough.
+Look at stars.
+
+Pet dogs.
+
+Eat dessert before dinner sometimes.
+
+Call somebody simply because you miss them.
+
+Life becomes serious without asking permission.
+
+Do not help it become more serious than necessary.
+
+And protect your imagination.
+
+Adults sometimes lose theirs.
+
+They begin believing that because something has not existed before, it cannot exist.
+
+That is wrong.
+
+Everything humans ever built existed inside somebody's imagination first.
+
+Buildings.
+
+Songs.
+
+Airplanes.
+
+Computers.
+
+Books.
+
+Families.
+
+Entire futures.
+
+So dream.
+
+Then learn enough to build some of those dreams.
+
+And if one does not work?
+
+Build another.
 
 You do not have to smile every day.
 
@@ -478,7 +809,7 @@ Dad
 
 ---
 
-## To My Girls Together
+## To All Three of You
 
 Luna.
 
@@ -486,13 +817,13 @@ Alexis.
 
 Summer.
 
-There is one family memory I want written down plainly because it means more to me than it probably could to anyone else:
+There is one family memory I want written down plainly because it means more to me than it probably could to anybody else:
 
 **All three of your first words were "Dad."**
 
 Each of you gave me that word first.
 
-Before you knew what I did for work, before you knew anything about my successes or failures, before you knew about companies or books or code or chess or any complicated part of my story, you knew me by one word.
+Before you knew what I did for work, before you knew about companies, code, books, chess, money, courtrooms, or any complicated part of my story, you knew me by one word.
 
 Dad.
 
@@ -520,7 +851,7 @@ Take the useful things.
 
 Leave the rest.
 
-And please protect your relationship with one another.
+And protect your relationship with one another.
 
 You are sisters.
 
@@ -540,9 +871,13 @@ Show up for heartbreak.
 
 Show up for success.
 
+Show up for failure.
+
 Show up for boring Tuesdays.
 
-Do not compete over who was loved more.
+Those ordinary days are family too.
+
+Do not compete over who Mom or Dad loved more.
 
 Love is not a pie.
 
@@ -550,9 +885,13 @@ One person's piece does not make another person's smaller.
 
 If one of you falls, help her up without keeping score.
 
-If one of you succeeds, celebrate without making it about yourself.
+If one succeeds, celebrate her without making it about yourself.
 
-And years from now, if you are sitting around a table talking about your childhood and one of you says, "Remember Dad's weird computer project?" I fully expect another one of you to answer:
+And years from now, if you are sitting around a table talking about childhood and one of you says:
+
+"Remember Dad's weird computer project?"
+
+I fully expect another one of you to answer:
 
 "Which one?"
 
@@ -562,7 +901,7 @@ That would be fair.
 
 ## Proud Before Proof
 
-If you find the phrase **PROUD BEFORE PROOF** anywhere in this book, in one of my projects, or buried in an Easter egg, it belongs to the three of you.
+If you find the phrase **PROUD BEFORE PROOF** anywhere in this book, inside one of my projects, or buried in an Easter egg, it belongs to the three of you.
 
 It means:
 
@@ -602,11 +941,171 @@ That is the family code.
 
 ---
 
+## Why I Built Things
+
+A lot of this book talks about building.
+
+Software.
+
+Businesses.
+
+Ideas.
+
+Systems.
+
+Stories.
+
+Some worked.
+
+Some did not.
+
+Some became bigger than I expected.
+
+Some probably should have stayed ideas.
+
+But underneath all of it was something ordinary.
+
+I wanted to create.
+
+I wanted to turn imagination into something you could touch.
+
+And part of me always wondered:
+
+**What can I leave my daughters that is more useful than money?**
+
+Money can disappear.
+
+Companies can fail.
+
+Technology becomes obsolete.
+
+Websites shut down.
+
+Repositories get abandoned.
+
+But knowledge can multiply.
+
+Curiosity can multiply.
+
+Kindness can multiply.
+
+So if you ever explore the things I built, do not treat them like monuments.
+
+Take them apart.
+
+Study them.
+
+Improve them.
+
+Laugh at the bad code.
+
+Please laugh at the bad code.
+
+Every programmer eventually discovers code they wrote years earlier and wonders what kind of person could possibly have written such a thing.
+
+Then Git tells them.
+
+It was them.
+
+If SKYCOIN4444, HopeAI, ShadowChat, SkySchool, SkyHope, or anything else survives long enough for you to see it, you have my permission to change it.
+
+Do not preserve something simply because Dad made it.
+
+Make it better.
+
+That would honor me more.
+
+---
+
+## The Easter Egg Promise
+
+Somewhere in the things I built, I wanted there to be reminders that human beings made them.
+
+Not corporations.
+
+Not machines.
+
+People.
+
+So you may find jokes.
+
+References.
+
+Messages.
+
+Names.
+
+Numbers that mean something.
+
+Chess pieces.
+
+Rain.
+
+Compasses.
+
+The number 4444.
+
+Things that make absolutely no sense until somebody explains the story behind them.
+
+Consider them little digital notes from Dad.
+
+A scavenger hunt across time.
+
+If you find one that makes you laugh, it worked.
+
+If you find one that makes you roll your eyes and say:
+
+"Dad was such a nerd."
+
+That also worked.
+
+Possibly even better.
+
+---
+
+## If You Ever Wonder Whether I Was Proud of You
+
+Yes.
+
+There.
+
+Question answered.
+
+You do not need another page.
+
+I was proud of you before you became anything.
+
+And if someday you are struggling, failing, lost, broke, heartbroken, changing careers, starting over, or wondering whether you disappointed everybody:
+
+Read that sentence again.
+
+**I was proud of you before you became anything.**
+
+Parents sometimes accidentally make children believe love is connected to performance.
+
+Good grades.
+
+Good behavior.
+
+Achievements.
+
+Winning.
+
+Success.
+
+I do not want you carrying that misunderstanding.
+
+I want you to do your best because your life matters.
+
+But my love for you was never a scoreboard.
+
+---
+
 ## To the Judge Who Gave Me More Time
 
 I want to say this carefully because words matter.
 
-I have sometimes used emotional shorthand when describing what happened around 2020. Those phrases were expressions of how events felt to me, not necessarily the language of a court order or a verified legal finding.
+I have sometimes used emotional shorthand when describing what happened around 2020. Those phrases described how events felt to me, not necessarily the wording of a court order or a verified legal finding.
 
 What I mean here is simpler.
 
@@ -624,17 +1123,19 @@ I did not use every day perfectly.
 
 Nobody does.
 
-But I knew the opportunity mattered.
+But the opportunity mattered.
 
-So, to that judge:
+So:
 
 **Thank you for the time.**
 
-A courtroom decision can alter the shape of a family's future. I never forgot that.
+A courtroom decision can change the shape of a family's future.
+
+I never forgot that.
 
 And I thank God for the time too.
 
-There were years when faith felt close and years when pain made me angry enough to stop talking to God the way I once had.
+There were years when faith felt close and years when pain made me angry enough that I did not know how to talk to God the way I once had.
 
 Even then, hope kept showing up in the names of things I built.
 
@@ -645,6 +1146,48 @@ HopeAI.
 SkyHope.
 
 Maybe that says something about what I was still looking for.
+
+---
+
+## For the Future Grandchildren I Have Not Met
+
+If one of my daughters someday hands this book to her own child:
+
+Hi.
+
+Apparently you found Grandpa Skyler's weird book.
+
+My reputation is now entirely in the hands of your mother, which seems extremely dangerous.
+
+Ask her about me.
+
+But understand you are probably getting a biased witness.
+
+Check with her sisters.
+
+Actually, they are probably biased too.
+
+Good luck.
+
+Here is what I want you to know:
+
+Your mother was somebody's little girl once.
+
+She had dreams before she knew you.
+
+She made mistakes before she became your mom.
+
+She learned life the same way you are learning it:
+
+One day at a time.
+
+Be patient with her.
+
+Parents are human beings doing their best with information they usually receive too late.
+
+And if your mom tells you her dad loved her very much:
+
+That part is true.
 
 ---
 
@@ -688,11 +1231,11 @@ That I sometimes got lost inside those dreams.
 
 And that I kept trying to return to what mattered.
 
-Kaylee, thank you for the part of our life that became a family.
+Kaylee, thank you for the part of our lives that became a family.
 
 Luna, keep your own way of moving through the board.
 
-Alexis, keep the small things that make a life real.
+Alexis, trust your compass and never be ashamed to recalculate.
 
 Summer, remember that storms pass.
 
@@ -706,7 +1249,81 @@ Everything else is the story.
 
 ---
 
+## One Last Thing Before the Story
+
+This book eventually moves beyond family.
+
+There are difficult memories here.
+
+Questions.
+
+Pain.
+
+Confusion.
+
+Ambition.
+
+Humor.
+
+Love.
+
+Mistakes.
+
+Technology.
+
+Faith.
+
+Fear.
+
+Chess.
+
+And a lot of attempts to understand experiences that did not always make sense while I was living them.
+
+But none of that should overshadow this.
+
+Because before I was an author...
+
+Before I was a founder...
+
+Before the software...
+
+Before the projects...
+
+Before anybody cared what I was building...
+
+I became Dad.
+
+And becoming Dad changed the entire board.
+
+Everything after that was played from a different position.
+
+So this story begins where it should.
+
+With them.
+
+**For Luna Avigail.**
+
+**For Alexis Isabella-Jane.**
+
+**For Summer Skye.**
+
+May you build lives bigger, healthier, happier, kinder, and wiser than mine.
+
+And wherever life takes the three of you:
+
+Remember that your dad loved you.
+
+That is the first chapter.
+
+Everything else comes afterward.
+
+—Dad
+
+---
+
 ### *Before the Glitch*
+
+If the family pages tell you what mattered, this section tells you what existed before there was anything to lose.
 
 If you want to understand what happens later, do not start with the strangest thing.
 
@@ -1370,7 +1987,7 @@ Skyler Blue begins this novel believing that survival requires him to understand
 
 ## Contents
 
-- Dedication & Family Letters — Kaylee, Luna, Alexis, Summer
+- For My Family — Kaylee, Luna, Alexis, Summer
 - Before the Glitch — The Life Worth Losing
 - Prologue — The Song Beneath the Static
 - Interlude — The Inheritance That Changed Names
