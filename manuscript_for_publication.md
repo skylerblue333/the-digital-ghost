@@ -119,6 +119,8 @@ You never have to inherit my fears.
 
 You never have to choose between loving your mother and loving your father.
 
+And if adults ever put you in the middle—if somebody showed you a post, repeated a rumor, asked you to take a side, or made you feel that loving one parent betrayed the other—that was never your burden to carry. Children are not evidence. Children are not leverage. Children are not pawns.
+
 Take what is useful from me. Correct what I got wrong. Improve what I built. Laugh at the ridiculous parts. Tell your own version of the family story.
 
 The only inheritance I want to place on your shoulders is this:
@@ -3745,6 +3747,58 @@ The problem was not only whether someone had entered the phone.
 
 The problem was that the phone had been built to enter him.
 
+And, worse, to enter everybody around him differently.
+
+The Network did not need one magic control panel.
+
+It needed distribution.
+
+A lyric that reached Skyler after an argument.
+
+A sponsored post that reached a girlfriend after she searched whether controlling partners lie.
+
+A custody article shown to a relative who already worried about the children.
+
+A church clip about obedience served to somebody who believed separation could be spiritual wisdom.
+
+An employer's risk alert assembled from public fragments.
+
+A dating profile screenshot sent without context.
+
+An advertisement for a car he had lost.
+
+A song whose chorus repeated the exact kind of fear he had been trying not to name.
+
+None of those things had to contain a direct command.
+
+They only had to arrive at the right emotional temperature.
+
+That was the Network's real trick.
+
+It did not control people like machines.
+
+It controlled context.
+
+Then people supplied the motion themselves.
+
+One person blocked him.
+
+One fired him.
+
+One stopped answering.
+
+One warned somebody else.
+
+One reposted a clip.
+
+One told a child, with good intentions, that Dad was having problems.
+
+One child repeated what an adult had said because children repeat the weather around them.
+
+By the time the sentence returned to Skyler, it looked like consensus.
+
+That was how people became pawns without ever agreeing to play.
+
 Mara had given him a temporary device from a sealed box. Lena had insisted he leave his old phone powered down inside a gray pouch that swallowed signal like light into cloth. Reyes had sent an investigator who showed up with a polite smile and a clipboard and said he would “safeguard everything.”
 
 “Do you trust me?” the investigator asked.
@@ -4026,6 +4080,20 @@ Outside, a bus exhaled. The keys on the wallpaper pointed at him, away from him,
 “And then what?” he asked.
 
 “Then,” Mara said, eyes on the screen, the thumb of her right hand resting on the safety switch of a gun he suspected was not the kind with blanks, “we find out who paid to make the guess worse.”
+
+Skyler looked at the feed one more time.
+
+That was the horror of it.
+
+A lyric did not have to be an order.
+
+An ad did not have to be a threat.
+
+A post did not have to be true.
+
+A person did not have to know they were a pawn.
+
+The system only had to keep putting pressure in the right places until ordinary human choices began to resemble choreography.
 
 ## Chapter Eight
 ### TrumpCoin
@@ -5197,6 +5265,8 @@ He already knew the inventory.
 
 A house.
 
+Four cars, each loss carrying its own humiliating logistics—keys surrendered, payments missed, repairs abandoned, rides begged, the ordinary machinery of independence stripped down one vehicle at a time.
+
 The daily shape of his family.
 
 His fiancée.
@@ -5205,9 +5275,25 @@ Years with his children that could not be rescheduled.
 
 Seven jobs.
 
-And, after the breakup, eight relationships or almost-relationships disrupted by a mixture of fear, interference, mistrust, bad timing, and his own increasingly damaged ability to tell one from another.
+Eight girlfriends or almost-relationships, seven of them ending inside the same fog of fear, interference, mistrust, bad timing, and his own increasingly damaged ability to tell one from another.
 
 The pattern was cruel because it did not have to be perfect.
+
+The first car went when money tightened.
+
+The second became collateral damage in a season when work vanished faster than bills.
+
+The third died mechanically while his attention was somewhere else.
+
+The fourth disappeared from his life after another financial collapse.
+
+None of those losses alone proved sabotage.
+
+Together, inside Skyler's exhausted mind, they became four empty parking spaces in a life that used to move.
+
+The house went the same way—not in one cinematic seizure, but through paperwork, money, separation, and the slow realization that a key can stop belonging to you before the metal leaves your hand.
+
+Then came the relationships.
 
 A suspicious message arrived before a date.
 
@@ -7646,11 +7732,55 @@ Mara’s hands flattened on the table. Her nails were clean again since they had
 
 The song in the hallway slid into its bridge and then cut off. Someone had turned the radio down. The rasp of a vending machine compressor became the only sound against the recorder’s small red eye.
 
-Seven jobs. Skyler thought it without making it a weapon. In memory, he was raising his hand in an office kitchen to tell a manager he’d be offline for an afternoon appointment, and the manager looking over his shoulder as if someone had just sent him a message he didn’t want to read in front of another person. He could still feel the handle of the fridge and the way it had resisted; the smell of someone else’s curry inside. He had known then that the meeting at three o’clock would not be about workload.
+Seven jobs. Four cars. The house. Kaylee. Eight relationships after love had already taught him what losing one could cost. Time with his daughters measured by calendars instead of mornings.
+
+Skyler thought the inventory without making it a weapon. In memory, he was raising his hand in an office kitchen to tell a manager he’d be offline for an afternoon appointment, and the manager looking over his shoulder as if someone had just sent him a message he didn’t want to read in front of another person. He could still feel the handle of the fridge and the way it had resisted; the smell of someone else’s curry inside. He had known then that the meeting at three o’clock would not be about workload.
 
 “How many people?” he asked.
 
 Mara turned her palms up. “Enough.”
+
+“What does that mean?”
+
+“It means most of the people never knew they were helping us.”
+
+She leaned toward the recorder.
+
+“That was the point of the Pawns Network. The pawn does not receive a briefing. A pawn receives a reason.”
+
+She counted on her fingers.
+
+“An employer gets a risk memo.”
+
+“A girlfriend gets a screenshot.”
+
+“A church leader gets a concern framed as spiritual discernment.”
+
+“A reporter gets a tip.”
+
+“A relative gets a warning.”
+
+“A social platform gets an ad buy.”
+
+“A musician gets a theme and a payment.”
+
+“A kid hears adults repeating the same sentence until it sounds like something everybody knows.”
+
+Skyler's jaw tightened.
+
+“Leave my kids out of it.”
+
+“I am,” Mara said. “Listen to me. Children were never operators. They were targets of the atmosphere. If a child became distant, repeated a phrase, acted afraid, or took an adult's side, that was a child trying to understand a world adults had made unsafe.”
+
+The anger in him changed shape.
+
+Mara continued.
+
+“We did not need to make everybody believe the same lie. We needed each person to believe one useful fragment.”
+
+“And then?”
+
+“And then you did the rest to each other.”
 
 “Did you do it to me?”
 
@@ -9364,6 +9494,10 @@ He looked at the three of them.
 The answer required more courage than any confrontation with Thorne had.
 
 “I made mistakes,” he said. “Some people used those mistakes to tell a story about me. Some people believed the story. I have been trying to correct it.”
+
+He looked at each girl before continuing.
+
+“And none of that was your job to fix. If you ever heard adults say things about me, or about your mom, or about our family, you were children hearing adult problems. You were never supposed to choose a side.”
 
 “Are you a hero?” Summer asked. The question came out like a weather report.
 
