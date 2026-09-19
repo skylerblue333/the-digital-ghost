@@ -3607,7 +3607,7 @@ He had caught himself thinking in images again, which meant he was tired.
 
 The clock on the microwave crawled forward.
 
-His daughters’ voices made themselves out of the apartment’s silence, not literal, only the grooves his brain had worn: Luna’s dry chess confidence—You fell for the same trap twice, Daddy—and Summer’s unstoppable questions lilting up into the ceiling like the rain she loved to stand in, and Alexis’s careful commentary on every shell she collected, the tiny ridges labeled and sorted in a way only she would remember. He pressed a thumb into his eye until a burst of phosphor unwound.
+His daughters’ voices made themselves out of the apartment’s silence, not literal, only the grooves his brain had worn: Luna’s dry chess confidence—You fell for the same trap twice, Daddy—and Summer’s unstoppable questions lilting up into the ceiling like the rain she loved to stand in, and Alexis’s careful fascination with the little compass, turning it in her palm and waiting for the needle to settle. He pressed a thumb into his eye until a burst of phosphor unwound.
 
 At 9:17 he called Lena. He told her it was not urgent, which was a lie she would hear through.
 
@@ -3975,7 +3975,7 @@ Thorne stepped closer, into the circumference of the hanging bulb where the yell
 
 “Welcome to the room,” he said, and the room—phones dead, river moving outside, light insisting—felt to Skyler like a story a power had been waiting to tell with his name pressed in as the proper noun.
 
-He tightened his hands on the paper box. The lid flexed. In his chest, the old urgency rose, that acid need to act. He thought of Luna’s knight sliding in an L across squares nobody else had noticed, of Summer stepping into rain without checking if it had asked permission, of Alexis holding up a shell and calling it beautiful because she had decided it would be.
+He tightened his hands on the paper box. The lid flexed. In his chest, the old urgency rose, that acid need to act. He thought of Luna’s knight sliding in an L across squares nobody else had noticed, of Summer stepping into rain without checking if it had asked permission, of Alexis holding up the compass and insisting it still knew where north was even after she spun in a circle.
 
 He lifted his eyes to Thorne, and for the first time since the bag hit his knees that morning, a different understanding clicked into its spot: they had not invited him here only to scare him. They wanted to see if he would read their script back to them. They were not just looking for a doer. They were shopping for a symbol.
 
@@ -4952,7 +4952,7 @@ He switched apps. An article about a father who had taken his own life because h
 
 Outside, a siren reached up the block and then decided it didn’t need to cry. The radiator hiccuped. A train far away drew a line under the afternoon. The world went on making ordinary noises while his chest performed a private concerto.
 
-He opened the music app to get to silence, forgetting that tapping it would not be neutral. The top recommendation was a playlist titled Rain For Her. The cover art was stock photography of hands catching streetlight in a storm. He thought of Summer under that office window with her palms pressed flat to the glass. He hit back. Another tile appeared—Chess Concentration. A black knight gleamed against a white square. He thought of Luna’s face as she concentrated, the way her eyes went briefly feral when she smelled a trap she had set herself. He flicked it away too. A third playlist slid into focus—Shell Songs. It was a coastal photo, blues bleeding into each other. He thought of Alexis humming summer into winter by lining shells across February light.
+He opened the music app to get to silence, forgetting that tapping it would not be neutral. The top recommendation was a playlist titled Rain For Her. The cover art was stock photography of hands catching streetlight in a storm. He thought of Summer under that office window with her palms pressed flat to the glass. He hit back. Another tile appeared—Chess Concentration. A black knight gleamed against a white square. He thought of Luna’s face as she concentrated, the way her eyes went briefly feral when she smelled a trap she had set herself. He flicked it away too. A third playlist slid into focus—True North. Its cover showed a brass compass against a weathered map. He thought of Alexis turning the little needle in her palm and asking whether north moved when people did.
 
 “Hey,” Lena said, and it was the warning tone she used for clients who were about to say something they couldn’t unsay on the record. “Your daughters are not on your phone. Don’t let them be.”
 
@@ -5285,7 +5285,7 @@ His stomach tightened in a way that wasn’t panic now as much as memory.
 
 Her breathing changed from the little-metered church talk to the naked breath of a woman looking at a cupboard and finding it empty. “From the day you brought your girls to the river.”
 
-Skyler closed his eyes. He could smell that day if he tried hard enough: algae and wet wood, the mineral tang of August water. The photo had been his, taken with his own hands, then deleted after Sarah—kind and ferocious in the places that mattered—told him the children’s faces should not live on any server he did not own. In the picture, Luna had wanted to show him how a knight could fork a queen if you forgot about the L-shape. Summer had run into the rain that the sky had shaken out for three shabby minutes and held her mouth open to drink it like a dare. Alexis had filled her hands with bits of shell and then handed them to him one by one, serious as a judge, each one a decision he took and kept.
+Skyler closed his eyes. He could smell that day if he tried hard enough: algae and wet wood, the mineral tang of August water. The photo had been his, taken with his own hands, then deleted after Sarah—kind and ferocious in the places that mattered—told him the children’s faces should not live on any server he did not own. In the picture, Luna had wanted to show him how a knight could fork a queen if you forgot about the L-shape. Summer had run into the rain that the sky had shaken out for three shabby minutes and held her mouth open to drink it like a dare. Alexis had held the little compass flat in both hands, serious as a judge, waiting for the needle to stop shaking before announcing which way they should walk.
 
 “Mom,” he said. His voice was careful over the stones. “Listen to me. Do not open anything. Leave now.”
 
@@ -5409,7 +5409,7 @@ His mother didn’t move. He could feel her wanting to take the weight from him 
 
 He slid the short blade from the drawer beneath the table and eased the tape without tearing, as if preserving the edges would earn him points. The smell that came out was not chemical. It was paper and lake and the faint ghost of cheap soap.
 
-Inside, on top, was the photograph from the river: him with his arm around three small bodies who would, in the picture, never put their heads farther from him than that, his chin pressed to the place on Luna’s hair where you smell how summer dies back, Summer’s mouth open like she had caught the rain, Alexis solemn with a notch of shell held up for inspection. The background was the rust-red railing and the pewter water, a gull mid-flap, the kind of cloud that looks like an animal from a book.
+Inside, on top, was the photograph from the river: him with his arm around three small bodies who would, in the picture, never put their heads farther from him than that, his chin pressed to the place on Luna’s hair where you smell how summer dies back, Summer’s mouth open like she had caught the rain, Alexis solemn with the little compass held up for inspection. The background was the rust-red railing and the pewter water, a gull mid-flap, the kind of cloud that looks like an animal from a book.
 
 On the back, in the same patient hand as the box, four rectangles had been drawn. One had a keyhole. One had no door at all. One had flames drawn in careful orange highlighter, absurd, tender. One was a clean white square.
 
@@ -6127,11 +6127,11 @@ The clerk looked past him toward the rain and then back at his face like he was 
 
 “Nothing,” Caleb said. “We’re leaving.”
 
-They moved toward the door. Skyler took two steps and then saw a little display by the register he hadn’t registered before: a line of keychains on a wire spindle, enamel shapes for impulse buying. One was a chess king; one was a raindrop with a smiley face. One was a shell, a cheap scallop, its curve wrong but enough like the ones Alexis used to press into his palm after storms that he couldn’t help the hitch in his chest.
+They moved toward the door. Skyler took two steps and then saw a little display by the register he hadn’t registered before: a line of keychains on a wire spindle, enamel shapes for impulse buying. One was a chess king; one was a raindrop with a smiley face. One was a tiny compass charm, cheap metal with a needle that barely moved, enough like the one tied to Alexis in his memory that he couldn’t help the hitch in his chest.
 
-He closed his eyes for the short space of that hurt and let it hold him still. He thought of Summer’s hair after a downpour, how she would tilt her head to listen to rain drum the plastic of the recycling bin; he thought of Luna leaning over a board, her thumb flat against a pawn to steady it, the way she grinned without teeth when a trap sprung; he thought of Alexis filling her pockets with tiny shells and listing their colors like she was naming countries he had never been to. Remember your children as people, not symbols, he told himself, and then had to smile a little at the idea that he now coached himself into not turning love into evidence.
+He closed his eyes for the short space of that hurt and let it hold him still. He thought of Summer’s hair after a downpour, how she would tilt her head to listen to rain drum the plastic of the recycling bin; he thought of Luna leaning over a board, her thumb flat against a pawn to steady it, the way she grinned without teeth when a trap sprung; he thought of Alexis turning a compass in her palm and naming imaginary destinations as if she had already traveled there. Remember your children as people, not symbols, he told himself, and then had to smile a little at the idea that he now coached himself into not turning love into evidence.
 
-“Hey,” Caleb said quietly, following his line of sight. “You want a shell?”
+“Hey,” Caleb said quietly, following his line of sight. “You want the compass?”
 
 “No,” Skyler said. “I want to go home and not treat a bus like a god.”
 
@@ -6173,7 +6173,7 @@ He looked back once through the glass at the clerk, who gave him a short wave li
 
 The four notes ended. The next in-store track began with a chirpy ad about tires. The world continued on its cheap rhythms.
 
-He stood under the awning until his heart stopped doing its bird impression. He thought of Luna’s careful hand on a pawn. He thought of Summer’s rain. He thought of Alexis’s shells. He would tell them one day—not the fear, not the every-detail chaos—but the part where he had stopped and chose not to be directed by a bus, a hat, a jingle. He would tell them about how to make a door where you are told there is a wall.
+He stood under the awning until his heart stopped doing its bird impression. He thought of Luna’s careful hand on a pawn. He thought of Summer’s rain. He thought of Alexis’s compass, the needle trembling and then settling. He would tell them one day—not the fear, not the every-detail chaos—but the part where he had stopped and chose not to be directed by a bus, a hat, a jingle. He would tell them about how to make a door where you are told there is a wall.
 
 “Let’s go,” he said.
 
@@ -7079,7 +7079,7 @@ For months, he had called this time in his own head the year that would not end:
 
 Later, slowly, he had called it something else. Opportunity disguised as punishment. He had said it out loud once to Hanna on a walk that took them past a church whose yard had a Little Free Library made of an old beehive box. He had said, “Maybe that year was the last time I remember that work is not the same thing as wage,” and she had squeezed his hand.
 
-He thought about his daughters then the way fathers do when nothing is asked of them in the moment: with a sudden, precise ache. Luna had sent him a photo of a chessboard once that summer with only a white king and a black queen on it and a text that said, Daddy, if you are the king, stop acting like the bishop. Summer had drawn him a picture of a cloud with long lines of rain that she called “dance lines,” and said, It doesn’t rain inside a phone. Alexis had collected shells one day at a lake that had no shells worth the name, and she had held them up to her ear anyway and whispered, I can hear you.
+He thought about his daughters then the way fathers do when nothing is asked of them in the moment: with a sudden, precise ache. Luna had sent him a photo of a chessboard once that summer with only a white king and a black queen on it and a text that said, Daddy, if you are the king, stop acting like the bishop. Summer had drawn him a picture of a cloud with long lines of rain that she called “dance lines,” and said, It doesn’t rain inside a phone. Alexis had carried a little compass one day by the lake, checking it every few steps and whispering, It still knows.
 
 He flipped his notepad to a clean page and wrote three initials — L, S, A — and then wrote beneath them: They must not become evidence. He boxed the line with his pen tip hard enough to groove the paper.
 
@@ -7221,7 +7221,7 @@ Independent financial link between church language and physical delivery. Confir
 
 It was a sentence he wanted his daughters to be able to read one day without feeling like he had turned their names into a headline.
 
-He stood for a moment with his palms flat on the table, leaning into the slick of old polish. The room rotated a degree, the way rooms do when you have eaten nothing but soup you didn’t taste. He thought again of Luna’s chess queen, of Summer’s rain lines, of Alexis’s shell. He started to reach for his phone to send a photograph of the handwriting and stopped halfway, a choice that felt both like loss and like relief.
+He stood for a moment with his palms flat on the table, leaning into the slick of old polish. The room rotated a degree, the way rooms do when you have eaten nothing but soup you didn’t taste. He thought again of Luna’s chess queen, of Summer’s rain lines, of Alexis’s compass. He started to reach for his phone to send a photograph of the handwriting and stopped halfway, a choice that felt both like loss and like relief.
 
 “Let’s set a protocol for how we refer to the kids,” he said to Lena, not looking at her.
 
@@ -7543,7 +7543,7 @@ To Luna: I like the way you breathe before you make a move. How you look at the 
 
 To Summer: I know you love the rain because it says somebody else is crying for you. But you are allowed to be the weather, too.
 
-To Alexis: You keep shells that nobody would choose but you. That’s a kind of courage.
+To Alexis: You can change direction without losing yourself. That’s a kind of courage.
 
 He saved them to the Truth Protocol vault with an access label that would unlock only if certain conditions were met and sent a copy to Maria with no commentary because his mother understood silence better than any text.
 
@@ -7935,7 +7935,7 @@ She lifted her chin toward the page. “They’re not clairvoyant. They only nee
 
 He thought of the four mirrored doors in the courtyard and the slice of himself in each. He thought of Aegis and the four principles he had once sorted almost as a prayer—identity, memory, consent, consequence—words that would not become a code until later, but that already lived inside him like a pattern his hands knew.
 
-He thought of his daughters not as files in a category on a wall. He thought of Luna’s voice when she was concentrating on a move and not wanting to be interrupted, her click of tongue. He thought of Summer on a day the sky had opened and they had stayed under the overhang at the church anyway because the line had already formed, her hands patting the air to feel the rain without getting drenched. He thought of Alexis with a shell to her ear, eyes gone wide because she truly heard the ocean lapping in the quiet inside her skull.
+He thought of his daughters not as files in a category on a wall. He thought of Luna’s voice when she was concentrating on a move and not wanting to be interrupted, her click of tongue. He thought of Summer on a day the sky had opened and they had stayed under the overhang at the church anyway because the line had already formed, her hands patting the air to feel the rain without getting drenched. He thought of Alexis watching the compass needle settle, eyes gone wide because something so small could keep finding direction.
 
 If the Mirror Room had to make a note now, he wanted it to have to write: subject remembered people as people.
 
@@ -8026,7 +8026,7 @@ Mara’s reflection was faint in the glass, a dark hinge by the office door. She
 
 On the screen, Thorne returned. “You can protect them by choosing the side that already understands the world.”
 
-Skyler’s eyes dropped to the number again. Ten million. He made the math in reflex: the roof over Maria’s kitchen; Luna’s chess lessons with the good teacher who made pawns into stories; Summer’s rain boots and the way she claimed every puddle as a kingdom; Alexis’s workshop where she picked up shells and stones and learned the difference between gifts and things that looked like gifts. Ten million was lawyers who could turn time into empathy and paper into second chances. It was living rooms that doors didn’t slam in. It was private school if they chose it and summers with plain joy, not strategy. It was the distance rich people built between their children and other people’s weather.
+Skyler’s eyes dropped to the number again. Ten million. He made the math in reflex: the roof over Maria’s kitchen; Luna’s chess lessons with the good teacher who made pawns into stories; Summer’s rain boots and the way she claimed every puddle as a kingdom; Alexis’s workshop where she learned maps, direction, and the difference between guidance freely offered and a path somebody else chose for her. Ten million was lawyers who could turn time into empathy and paper into second chances. It was living rooms that doors didn’t slam in. It was private school if they chose it and summers with plain joy, not strategy. It was the distance rich people built between their children and other people’s weather.
 
 Ten million could become a new name for guilt.
 
@@ -8264,7 +8264,7 @@ Mara’s eyes were on him again. “You’re not going to run out there and try 
 
 “We’ll be slower,” Lena said, the voice she used when she had decided a thing and the difficulty of it didn’t enter the math. “And we will be right. And we will still lose some people. That is the price of not becoming them.”
 
-The hotel clerk’s pen scratched under the television next door. A bus hissed against the curb. The church marquee across the street did not change its mind. Skyler closed his eyes for a heartbeat and saw Luna considering a move before she touched the piece, saw Summer tilting her face to catch the first drops of rain like a dare, saw Alexis cupping a shell in both hands and listening to a sea that wasn’t there but sounded like hope when you held it right.
+The hotel clerk’s pen scratched under the television next door. A bus hissed against the curb. The church marquee across the street did not change its mind. Skyler closed his eyes for a heartbeat and saw Luna considering a move before she touched the piece, saw Summer tilting her face to catch the first drops of rain like a dare, saw Alexis cupping a compass in both hands and waiting for the needle to settle before deciding which way to go.
 
 He opened his eyes and pushed the recorder across the table toward Lena. “Cut it clean,” he said. “Make the truth sturdy.”
 
@@ -8457,7 +8457,7 @@ He remembered the stage’s black gloss that made everyone feel like they were s
 
 His own voice accused him while the Four Notes knocked on the door of the world. The room seemed too small and too crowded with him. He stood and did a slow lap of the short wall and the old children’s books shelf, the one with Babar and that lion that always looked too dignified to move. He put one hand to his neck and felt the warm damp there.
 
-He thought of Luna’s chessboard, how she liked to tangle the game just to see if he would make the beautiful move or the correct one. He thought of Alexis’s habit of talking to shells like friends and then pausing to hear their response. He thought of Summer’s way of naming rain by type: sheet rain, thread rain, laugh rain. He thought: Don’t give them this as their myth. Give them the version where their father knew how to put down a phone and pick up a blanket.
+He thought of Luna’s chessboard, how she liked to tangle the game just to see if he would make the beautiful move or the correct one. He thought of Alexis’s habit of turning the compass slowly, then pausing to see whether the needle would find its way back. He thought of Summer’s way of naming rain by type: sheet rain, thread rain, laugh rain. He thought: Don’t give them this as their myth. Give them the version where their father knew how to put down a phone and pick up a blanket.
 
 “Now we know the next phase,” Mara said.
 
@@ -8557,7 +8557,7 @@ Outside, the idling car returned to the curb and settled into a bass thrum that 
 
 “Go home,” Mara said softly, surprising him. “You look like a man who wants a reason to keep this room on his skin. Don’t let them have your night, too.”
 
-He thought of Summer naming the rain as he stepped into it. He thought of Luna saying that the most dangerous games were the ones that promised a story first and rules second. He thought of Alexis holding a shell to his ear and whispering, Do you hear it listening back?
+He thought of Summer naming the rain as he stepped into it. He thought of Luna saying that the most dangerous games were the ones that promised a story first and rules second. He thought of Alexis holding the compass flat in her palm and whispering, It always finds it again.
 
 He stood. He put one hand on the back of Lena’s chair and then let it go because he had not earned a goodbye touch. He lifted his bag. He made himself reach for the lights, then left them on for the owner because people liked to read in the back on storm nights.
 
@@ -8776,7 +8776,7 @@ A train horn blew somewhere beyond the blanket, a lonely basso that made the wal
 
 He went to the food bank twice a week because lifting boxes for strangers answered a question his phone could not. He finished online classes at night while his daughters were asleep. He took weekend shifts repairing laptops for the community center, and after church on Sundays — a brick building with a starburst of stained glass that made Summer laugh when the light came through and broke into rain on the floor — he swept floors and stacked chairs because a thing can be seen and made better without being explained to death. On Thursday evenings, he sat with a kid at the shelter who needed to beat someone at chess who didn’t let him win.
 
-Luna had beaten him in three straight games at a folding table with a sticky patch on its edge. Alexis had brought him a hand from the beach — a curl of shell with a pink lip — when he told her he could not take her that week. “It sounds like the ocean,” she’d said, holding it to his ear, and he had believed it because he needed to believe something beautiful could be portable.
+Luna had beaten him in three straight games at a folding table with a sticky patch on its edge. Alexis had once pressed a little compass into his hand when he told her he could not take her that week. “So you can find us,” she’d said, and he had kept the sentence because he needed to believe something beautiful could be portable.
 
 He’d told himself then that he was doing it because a system had stolen his primary job and he had to prove his replacement value. Later — only later — he understood that year had not been a sentence alone. It had been a door. An opportunity disguised as confinement. He became sharper because service uses you and asks less for proof.
 
@@ -8828,7 +8828,7 @@ Reyes took a breath. “You will be told your facts are too early. Then you will
 
 A phone vibrated in one of the gray sleeves, a faint bee-buzz. It could have been any of theirs. Skyler found his temporary device in his bag, a modest rectangle he picked because it cost less than groceries. He checked the lock screen. A rectangle of news: “Anonymous Music War Is Money Laundering, Says Insider.” Under it, a sponsored ad for outdoor gear, a photo of a compass in a child’s hand. The algorithm had no sense of cruelty, or perfect sense, depending on your mood.
 
-He turned the phone over and set it face down on the table, next to Alexis’s shell. He didn’t need the ad to tell him the obvious: his life had been reorganized into bait.
+He turned the phone over and set it face down on the table, next to Alexis’s compass. He didn’t need the ad to tell him the obvious: his life had been reorganized into bait.
 
 At 3:00 p.m., they tried forward motion.
 
@@ -9600,7 +9600,7 @@ He put his hand over his mouth. His eyes did something hot and unhelpful.
 
 “Yes,” he said without spreadsheeting it to death. “I’m coming.”
 
-He thought, while she made happy noises into the receiver that would travel to three small skulls in another house, about 2020 in a way that didn’t turn his lungs to glass. It had taken him months to stop calling that year the year he lost himself and start calling it the year he found work no one could take. When he could not go where he wanted, he had gone where he was allowed: he had filled out school forms for other parents who did not trust the words; he had loaded boxes at the food pantry at his mother’s church until his lower back learned the shape of other people’s hunger; he had finished a certificate in a subject no one at a venture dinner would admire and found that he admired it anyway; he had sat with a man who smelled like old rain and listened to him talk about war and never asked him to be more coherent than pain required. He had volunteered so much they started assuming he would be there and in that assumption he had found a small kind of belonging that tasted like bread. He had written letters to Luna about rook movement and to Summer about how rain names the world and to Alexis about shells you hear the sea in even when the sea is a lie. He had called that year a prison for so long. Lately, he had started calling it the first place he learned to be useful.
+He thought, while she made happy noises into the receiver that would travel to three small skulls in another house, about 2020 in a way that didn’t turn his lungs to glass. It had taken him months to stop calling that year the year he lost himself and start calling it the year he found work no one could take. When he could not go where he wanted, he had gone where he was allowed: he had filled out school forms for other parents who did not trust the words; he had loaded boxes at the food pantry at his mother’s church until his lower back learned the shape of other people’s hunger; he had finished a certificate in a subject no one at a venture dinner would admire and found that he admired it anyway; he had sat with a man who smelled like old rain and listened to him talk about war and never asked him to be more coherent than pain required. He had volunteered so much they started assuming he would be there and in that assumption he had found a small kind of belonging that tasted like bread. He had written letters to Luna about rook movement and to Summer about how rain names the world and to Alexis about compasses that show direction without choosing the destination. He had called that year a prison for so long. Lately, he had started calling it the first place he learned to be useful.
 
 He wanted his daughters to inherit that version, not the one with flames on it.
 
@@ -9949,7 +9949,7 @@ He hovered a moment over the email client as if to send Thorne nothing and make 
 
 “Write three letters,” Lena said suddenly, as if a thought had stepped into the room and asked for a chair. “Not to publish. Not to prove. To Luna, to Summer, to Alexis. Tell them your four in sentences you’re not embarrassed of. That’s your chain of custody for the person you’re trying to be.”
 
-He thought of the three unsent recordings on his drive. He thought of Luna’s chessboard with the rook he had taught her moved wrong and then right; of Summer’s insistence that rain is not sad, it just wants; of Alexis’s shell against his ear when she had said, Do you hear it? and he had said, Yes, because he did, because he was listening to her. He would write them tonight or he would fall asleep trying; either one would be a kind of ritual.
+He thought of the three unsent recordings on his drive. He thought of Luna’s chessboard with the rook he had taught her moved wrong and then right; of Summer’s insistence that rain is not sad, it just wants; of Alexis’s compass in his palm when she had asked whether north ever got tired of being north, and he had laughed because he was listening to her. He would write them tonight or he would fall asleep trying; either one would be a kind of ritual.
 
 He scrolled to the very end of the Aegis doc and found not a flourish but a small line of text that had waited two years to fulfill its joke:
 
@@ -10453,7 +10453,7 @@ Event: public terminal display. Origin: unknown. Attribution: contested. Consent
 
 He loved the ugliness of the sentence for the way it refused to perform. He appreciated the way the code was treating the world as a set of movements rather than a set of evil geniuses. If you named each action in terms of consent and consequence, the mystery did not vanish. It acquired a shape you could hand to a friend without cutting them.
 
-He turned off the lamp and allowed dusk to do its work. He stood at the window and watched the street accept the evening. A bicycle went past with a milk crate zip-tied to the back and a string of battery-powered lights that made it into a moving constellation. A boy bounced a basketball that made the sound of sneakers in a gym and also of men in their forties playing midnight pickup to remember they have bodies. Somewhere, a radio began to tune itself toward a station. The sound that leaked had the shape of four notes. He did not treat them as a command. He thought of Luna’s chessboard and the way she never traded a rook when she didn’t need to; he thought of Summer at the window naming seven kinds of rain, all of them with delight; he thought of Alexis pressing a shell to his ear and laughing when he pretended to hear the sea.
+He turned off the lamp and allowed dusk to do its work. He stood at the window and watched the street accept the evening. A bicycle went past with a milk crate zip-tied to the back and a string of battery-powered lights that made it into a moving constellation. A boy bounced a basketball that made the sound of sneakers in a gym and also of men in their forties playing midnight pickup to remember they have bodies. Somewhere, a radio began to tune itself toward a station. The sound that leaked had the shape of four notes. He did not treat them as a command. He thought of Luna’s chessboard and the way she never traded a rook when she didn’t need to; he thought of Summer at the window naming seven kinds of rain, all of them with delight; he thought of Alexis holding the compass too close to a magnet and laughing when the needle went wild.
 
 He stood long enough that the streetlights thought they were new moons. He did not feel victorious. He felt responsible.
 
@@ -10663,7 +10663,7 @@ Do you accept that what you do next will change nothing you have already made tr
 
 He could say no and still be the man he wanted to be. He could say yes and still refuse to give them what they wanted to make of it. Consent did not mean obedience; it meant clarity.
 
-He thought, stupidly and gloriously, of school concerts. He thought of Luna’s patience at chess when he had tried to teach her not just where pieces could go but why; of Summer’s attention to rain naming the world; of Alexis’s shell held to an ear in a kitchen where someone had said, “You can hear the ocean,” and Alexis had said, “Is the ocean pretending to be in the shell or is the shell pretending to be the ocean?” and everyone had laughed like that sentence was an answer. He thought of them not as evidence in a case but as people with futures he would not surrender to anyone’s plot. He thought of the four doors he could offer them: identity that was not defined by a man with a microphone; memory that belonged to the people who lived the days, not to the archive machines alone; consent that meant they could decline to be anyone’s illustration; consequence that meant what he did would teach them something about what to do with power.
+He thought, stupidly and gloriously, of school concerts. He thought of Luna’s patience at chess when he had tried to teach her not just where pieces could go but why; of Summer’s attention to rain naming the world; of Alexis holding a compass in the kitchen and asking whether north moved when you moved, and everyone laughing when Skyler gave an explanation three times longer than the question required. He thought of them not as evidence in a case but as people with futures he would not surrender to anyone’s plot. He thought of the four doors he could offer them: identity that was not defined by a man with a microphone; memory that belonged to the people who lived the days, not to the archive machines alone; consent that meant they could decline to be anyone’s illustration; consequence that meant what he did would teach them something about what to do with power.
 
 He clicked accept.
 
@@ -11173,7 +11173,7 @@ Skyler looked at her. Her eyes had the quality of a person looking into an old b
 
 “Now you see why the name matters,” she said quietly. “A pawn can still cause harm.”
 
-He thought of the shelf in his mother’s kitchen where Maria kept the shells she gave Alexis to listen to. They pretended to carry the sea. They carried only the pattern of air moving through spirals. The difference was real and not disqualifying. The analyst’s harm was real. The analyst’s lack of design was real. Both could be true without a neck to hang a story from.
+He thought of the shelf in his mother’s kitchen where Maria kept the little compass Alexis liked to borrow. It did not choose a destination. It only kept offering direction. The difference was real and not disqualifying. The analyst’s harm was real. The analyst’s lack of design was real. Both could be true without a neck to hang a story from.
 
 He sat back down. He picked up the redacting pen. He did a theatrical flourish for himself, a private joke to make the gravity a little more livable, and then he blacked out the name in the public copy with a steady hand made steadier by the memory of Luna’s bow. He kept the internal copy intact, sealed under Reyes’s case number. He initialed the redaction and wrote, in block letters beside it: ACTIONS DISCLOSED. IDENTITY WITHHELD TO PREVENT VIGILANTISM UNTIL COMPLETION OF LAWFUL PROCESS. He wrote it like an oath and like a spell.
 
@@ -11251,7 +11251,7 @@ Private — Not for Sending — Summer — Draft 1:
 You asked me once how rain knows how to begin. I told you about pressure and particles and you fell asleep and when you woke up you said I meant it the other way. I know what you meant now. You meant how do we start doing a thing when starting feels like saying yes to being wet all day. We start because the plants need it, because the street needs its dust washed off, because people under roofs learn the sound of mercy. You drew me four doors and left one blank. I am going to walk through the blank one without making you carry an umbrella for me.
 
 Private — Not for Sending — Alexis — Draft 1:
-You gave me a shell and asked me if I heard the sea. I told you the truth and then I told you the other truth. I am sorry that sometimes I told you the hard truth first when the other truth would have made it easier to be five. I am building you a room with shelves where we will put shells that sound different and I will let you tell me which ones sound like the ocean and I will not correct you because maybe the ocean is different in your head and that is good. I am keeping your picture of a tower that falls down on purpose.
+You handed me a compass and asked whether north ever changed. I gave you an explanation when what you really wanted was reassurance. I am sorry that sometimes I gave you the hard answer first when the gentler truth would have made it easier to be five. I want to build you a room where you can change direction without anyone treating it like failure. I am keeping your picture of a tower that falls down on purpose.
 
 He tucked the small recorder back into the binder like a folded letter his future self would be grateful to open. He did not send them because the girls did not need a father who delivered monologues to children and called it love. They needed consistent dinners and permission slips remembered and the argument about bedtimes held gently. They needed his apology done with chores.
 
@@ -11675,7 +11675,7 @@ They stayed for an hour. Luna challenged him to a game on the center’s tournam
 
 Summer asked him, on the walk around the block, if rain could have a favorite house. He said no and then yes and then said the version he hoped she could inherit: that rain didn’t love houses; it loved gravity. But sometimes the sound of it on your roof could make a roof feel loved. She nodded solemnly and then jumped a puddle on purpose to make it sing.
 
-Alexis found a small spiral shell in the center’s little patch of community garden—someone had hauled sand for a lesson and left two shells there on the dirt like punctuation. She pressed the shell to his ear and waited for him to say it. He said it. He told her he could hear the ocean. She whispered, “It’s only air,” as if reminding him that magic and honesty were not enemies.
+Alexis found the little brass compass in the center’s supply drawer and carried it outside. She spun once in the garden, stopped, and waited for the needle to settle. “It still knows,” she said. Skyler smiled. “The compass knows north. You still get to choose where you’re going.”
 
 They ate rice and chicken from the foil pan his mother had brought. Maria told him about three people at church who had asked for help logging into accounts that had been taken from them without any proof they had ever been theirs. She laughed when she said it, helpless at the way the modern world had turned a person into a link. They planned a class to teach older adults how to ask websites to show their faces proof and not just their names.
 
