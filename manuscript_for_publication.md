@@ -33,6 +33,8 @@ This page does.
 
 **I loved my family. I was grateful for the ordinary years. I wanted more of them.**
 
+Before this book becomes dark, remember that there was light first. There was faith, falling in love, a home, babies, laughter, plans, and years when the future still felt ordinary. The loss only matters because the love was real.
+
 I did not understand the value of every ordinary day while I was living it. I wish I had taken more days off, protected more family time, taken more vacations, worried less about the next job or project, and understood sooner that a quiet evening together could be worth more than something impressive I built.
 
 That is why the family comes first in this book.
@@ -775,6 +777,198 @@ There was that first realization that computers were different from almost every
 That fascinated me.
 
 It still does.
+
+But before technology became the thing people associated with my name, there was another beginning.
+
+I was still basically a kid trying to become a man without admitting how little I understood.
+
+There had been enough mistakes, confusion, disappointment, and dead ends that I sometimes felt as though I had already wasted whatever good life I had been given.
+
+Then faith entered the story differently.
+
+Not as a sermon.
+
+Not as a rule book.
+
+As a second chance.
+
+I do not know how else to describe what it felt like except this:
+
+**I believed God gave me my life back.**
+
+Not a perfect life.
+
+A life.
+
+The kind where morning mattered again.
+
+The kind where a job could be just a job instead of proof you were failing.
+
+The kind where you could imagine being loved without immediately imagining how it would end.
+
+Then I met Kaylee.
+
+Or, more accurately, I began to understand that meeting someone and building a life with someone are two completely different miracles.
+
+She became my first real love.
+
+Not the polished kind.
+
+Not a movie.
+
+The kind made from grocery runs, arguments over dumb things, sitting too close on furniture we could barely afford, talking about the future as if saying it out loud helped construct it.
+
+We were young enough to think time was unlimited.
+
+That was beautiful.
+
+It was also dangerous.
+
+We made plans because young people make plans like architects who have never seen weather.
+
+A better place.
+
+A house.
+
+Kids.
+
+Work.
+
+School.
+
+Birthdays.
+
+Christmas mornings.
+
+A kitchen that always needed cleaning.
+
+A couch somebody would eventually spill something on.
+
+Family pictures where at least one person was not looking at the camera.
+
+We talked about growing old before we had really learned how to be young together.
+
+I could see it.
+
+Kaylee beside me years later.
+
+A wraparound porch.
+
+Gray hair we would pretend not to notice.
+
+Our daughters pulling into the driveway with adult lives of their own.
+
+Somebody bringing food.
+
+Somebody arguing about where to sit.
+
+Grandchildren making too much noise.
+
+The kind of future so ordinary nobody would ever write a thriller about it.
+
+That was the dream.
+
+And for a while, we got pieces of it.
+
+We had mornings where the biggest crisis was finding a missing shoe.
+
+Nights where one of us was exhausted and the other one was supposed to be less exhausted.
+
+Trips to the store that somehow cost twice what we expected.
+
+Bills on the counter.
+
+Pictures on phones.
+
+Little clothes everywhere.
+
+A child falling asleep against your chest with enough trust to make you afraid of every bad thing in the world.
+
+Then another daughter.
+
+Then another.
+
+**Luna. Summer. Alexis.**
+
+Three girls.
+
+Three first words that, in my memory, became the same word.
+
+**Dad.**
+
+I did not understand then that ordinary family life was the richest period of my life.
+
+I thought richness was still ahead.
+
+The next promotion.
+
+The next degree.
+
+The company.
+
+The software.
+
+The house getting better.
+
+More money.
+
+More room.
+
+A vacation we would take later when work slowed down.
+
+Work never slows down by itself.
+
+You have to choose to put it down.
+
+I wish I had understood that sooner.
+
+I wish I had taken more days off.
+
+More pictures where nobody was dressed up.
+
+More trips that made no financial sense but created stories.
+
+More evenings where I stopped trying to solve tomorrow.
+
+I wish I had known that one day I would remember the sound of the house more vividly than almost anything I bought for it.
+
+That is part of why this book exists.
+
+Not to pretend the relationship was perfect.
+
+It was not.
+
+We argued.
+
+We hurt each other.
+
+I could be stubborn, proud, obsessive, distracted, and far too interested in winning an argument that would not matter a month later.
+
+Kaylee had her own flaws because she was a person, not a character written to complete me.
+
+But there was love.
+
+There was family.
+
+There was a version of me that came home and belonged somewhere.
+
+When the relationship eventually broke, I did not only lose a fiancée.
+
+I lost the future I had rehearsed in my head.
+
+The porch.
+
+The ordinary dinners.
+
+The assumption that the girls would always be one room away.
+
+The person I thought would remember the beginning with me when we were old.
+
+That is why everything that comes later hurts.
+
+The thriller does not begin with a phone.
+
+It begins with a man discovering that the life he would eventually spend years trying to recover had once been so ordinary he forgot to be amazed by it.
 
 Then life became bigger.
 
@@ -5513,41 +5707,329 @@ The line filled with a soft ringtone that used four notes, the last one held jus
 
 On the wall, he added the second rectangle beside the first.
 
-The third job ended in a conference room where the blinds were drawn even though the afternoon had opened itself like a mercy outside. The company had glass offices, brushed steel fixtures, artisanal seltzer on tap, all the signaling of a modern firm that insisted it had nothing to hide.
+The third job was the one Skyler remembered too clearly.
 
-“We’re moving you to observer status,” Kaveh said. He was the team lead, his tie loosened as if this might make the words humane.
+It began before the Glitch had fully taught him to distrust attention.
 
-“What does that mean?” Skyler asked.
+The fictional company was called **Northstar Components**, a manufacturing-and-logistics operation where machines broke for understandable reasons and production numbers either cleared the screen or did not.
 
-“Given the climate,” said Mindy from HR, “we need a cooling-off period.”
+Skyler liked that.
 
-“Climate,” Skyler repeated, a meteorologist in someone else’s weather. He pictured clouds plotted by a hand he could not see.
+Physical work had honesty.
 
-Mindy slid a folder across the table. The paper made a sound like an old photograph being pulled from an album. Inside, screenshots had been printed: a thread with his name attached beneath a logo that looked like a cracked mirror; a page titled Truth Protocol – Blue; a paragraph that said, You admitted involvement at the warehouse. He did not notice his own breath until he realized he was holding it.
+A part could be defective.
 
-“I didn’t write that,” he said.
+A line could jam.
 
-“It appears to be your archive,” Mindy said carefully, as if neutrality were a job grading rubric. “It uses your phrasing: confirmed, possible, unknown.”
+A schedule could be wrong.
 
-“I don’t publish my notes. I lock down originals. That page is fake.”
+You fixed what you could prove was broken.
 
-Kaveh steepled his fingers. “We’re not accusing you. We’re… monitoring. We have clients in the civic sector. You understand the sensitivity.”
+His direct supervisor, Ben, was practical, tired, and fair.
 
-“I understand that I am being erased in small sections.”
+Ben's boss was **Vivian Cross**.
 
-“The project will continue under Aly.” Kaveh looked, unmistakably, embarrassed. “Your ideas will live on.”
+Vivian ran operations across several facilities. She was smart enough to understand a problem before most people finished explaining it and charismatic enough to make a room adjust when she entered.
 
-That sentence almost took his legs.
+At first she treated Skyler like a promising employee.
 
-“You’re making me a ghost at my own desk.”
+Then like a favorite.
 
-“We’re trying to keep you safe,” Mindy said.
+Then like something neither of them was willing to name inside a workplace.
 
-He forced a breath out. “Do not keep me safe by telling other people I am dangerous.”
+She stopped at his area more than her job required.
 
-He left the folder on the table. On the way out, a wall-mounted screen ran a promotional loop of the company’s mission set to a beat that, to anyone else, was a corporate rhythm. To him, it held four exact descending notes, familiar as the pause between his heartbeats.
+She remembered his school schedule.
 
-He added the third rectangle to the wall when he got home. He circled the phrase routine review three times until the paper almost tore.
+She asked about the girls.
+
+When he fixed a production bottleneck that had been costing the floor half an hour each shift, she arrived the next morning with his coffee exactly right.
+
+“You stalk my order history?” he asked.
+
+“Maybe I pay attention,” she said.
+
+The line stayed with him.
+
+At the time, his life with Kaylee was already breaking in ways that did not fit neatly on a calendar. Love had not disappeared. The structure around it was failing.
+
+Vivian knew enough to understand there was pain.
+
+She did not ask enough questions to understand the whole thing.
+
+That made her attention easier.
+
+After the engagement ended, Skyler reacted with the emotional judgment of a man determined to prove that heartbreak had not made him undesirable.
+
+That was how the two dancers entered the story.
+
+They were two women he met who happened to work as exotic dancers, were extremely attractive, knew exactly how absurd the situation looked, and found Skyler's combination of software obsession and wounded confidence entertaining.
+
+He thought dating both of them sounded funny.
+
+Caleb called it “a hostile penetration test against your emotional infrastructure.”
+
+Skyler told him to shut up.
+
+Caleb said, “Critical vulnerability confirmed.”
+
+For a few weeks, Skyler laughed again.
+
+He went out.
+
+He made bad decisions that were not crimes.
+
+He posted more of his life online than a cybersecurity-minded person should ever admit.
+
+Then a photograph appeared.
+
+Skyler in the middle.
+
+One dancer leaning against his shoulder.
+
+The other laughing into the camera.
+
+Nothing illegal.
+
+Nothing connected to Northstar.
+
+Nothing Vivian needed to see.
+
+Which meant, naturally, that she saw it.
+
+At 6:03 the next morning she messaged him.
+
+**We need to revisit your judgment.**
+
+At 6:07:
+
+**Leadership carries visibility.**
+
+At 6:11:
+
+**See me before shift.**
+
+Her office had glass walls and blinds designed to turn transparency into privacy in one pull.
+
+She closed them.
+
+Skyler sat.
+
+Vivian remained standing.
+
+“So,” she said.
+
+“So?”
+
+“Busy weekend?”
+
+He knew.
+
+He also knew enough not to say he knew.
+
+“It was fine.”
+
+“Fine.”
+
+She moved a folder half an inch across her desk.
+
+“You know people talk.”
+
+“About my work?”
+
+“About people.”
+
+“That is not really an answer.”
+
+“No,” she said. “It isn't.”
+
+The executive disappeared for a second.
+
+What remained was a woman trying very hard not to look hurt.
+
+“You make bad choices when you're hurt,” she said.
+
+Skyler stared at her.
+
+“You don't know enough about my life to say that.”
+
+“I know more than you think.”
+
+The sentence landed wrong.
+
+“What exactly are we meeting about?”
+
+Vivian looked toward the closed blinds.
+
+“Your future here.”
+
+“Because I went out with two women?”
+
+Her eyes sharpened.
+
+“I didn't say that.”
+
+“You didn't have to.”
+
+Silence held.
+
+Then Vivian said the one sentence that made pretending impossible.
+
+“I shouldn't care who you go home with.”
+
+Skyler waited.
+
+She looked away.
+
+“But I do.”
+
+For half a second, he felt flattered.
+
+Then he felt trapped.
+
+“Vivian—”
+
+“Don't.” Her hand came up. “I'm not asking you for anything.”
+
+“Then don't punish me for not giving you something.”
+
+Her face changed.
+
+Not much.
+
+Enough.
+
+After that, work became punishment delivered through policy.
+
+His schedule changed without warning.
+
+Good assignments moved to other people.
+
+Minor mistakes became meetings.
+
+Meetings became documentation.
+
+Documentation became a performance plan.
+
+He would correct one issue and discover three new expectations.
+
+Coworkers who had once joked with him began lowering their voices when he approached.
+
+A supervisor asked whether he had “personal instability affecting focus.”
+
+He knew exactly where the phrase had started.
+
+Or believed he did.
+
+That difference would matter later.
+
+A week after the photograph, his feed showed an advertisement about workplace affairs.
+
+Another day, a song appeared whose chorus centered on jealousy and betrayal.
+
+Vivian received an anonymous message containing cropped screenshots from Skyler's dating life.
+
+Skyler received a screenshot showing that she had received them.
+
+The Network—if it was the Network—did not need to invent jealousy.
+
+It only needed to put a finger on a bruise.
+
+What followed felt like torture to Skyler, though nobody laid a hand on him.
+
+It was the bureaucratic kind.
+
+The calendar moving.
+
+Access changing.
+
+Coworkers going quiet.
+
+A meeting invitation arriving Friday at 4:47 p.m.
+
+A badge still working while everybody in the building somehow knew it soon would not.
+
+The final meeting happened behind the same blinds.
+
+Ben sat beside Vivian and looked miserable.
+
+HR joined by video.
+
+The official explanation used words like **judgment**, **professionalism**, **disruption**, and **business needs**.
+
+Nobody said jealousy.
+
+Nobody said dancers.
+
+Nobody said love.
+
+Vivian barely looked at him.
+
+“Is this your decision?” Skyler asked.
+
+HR answered instead.
+
+“This is a company decision.”
+
+He kept looking at Vivian.
+
+“Is it yours?”
+
+Her jaw tightened.
+
+“Skyler.”
+
+“That's not an answer.”
+
+For a moment he thought she might tell the truth.
+
+Not the dramatic truth.
+
+Just something human.
+
+I cared.
+
+I got jealous.
+
+I let it affect how I treated you.
+
+Instead she pushed his badge across the desk.
+
+“We're done.”
+
+He picked it up.
+
+“You could have just hated my dating choices like a normal person.”
+
+Ben coughed into one fist because laughter and horror sometimes share a doorway.
+
+Vivian did not smile.
+
+Skyler left carrying a cardboard box that contained almost nothing: a charger, a notebook, two pens, a mug somebody had given him, and the strange knowledge that affection could become hostility without ever changing clothes.
+
+At home he taped the third white rectangle to the wall.
+
+For a long time he wanted to write one word on it:
+
+**JEALOUSY.**
+
+Instead he wrote:
+
+**Confirmed:** employment ended.
+
+**Confirmed:** executive expressed personal feelings.
+
+**Confirmed:** discipline increased afterward.
+
+**Possible:** jealousy influenced termination.
+
+**Unknown:** whether outside actors amplified the conflict.
+
+It was less satisfying than certainty.
+
+It was also more honest.
+
+That distinction would eventually save him.
 
 The fourth job ended in a carpeted office that smelled faintly of coffee and someone else’s cologne. The supervisor, a man with a handsome jaw and sincere eyebrows, placed Skyler’s access badge on the table between them as if returning a borrowed item rather than ending an agreement.
 
